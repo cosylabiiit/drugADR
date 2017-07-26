@@ -34,7 +34,7 @@ You should see an output - ``Imports successful. Good to go!``
 
 ## Directory Structure
 
-Top-Level directory structure:
+##### Top-Level directory structure:
 
     .
     ├── src                     # Source files
@@ -42,3 +42,8 @@ Top-Level directory structure:
     ├── test                    # Result files                  
     ├── LICENSE
     └── README.md
+
+
+##### Files' Description:
+
+- ``/src/preprocess_sider.py``: Loads the original SIDER data & fetches all the relevant identification tags (Inchi, SMILES etc) required for extraction of the drug chemical properties through ``pubchempy``.
