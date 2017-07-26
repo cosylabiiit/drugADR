@@ -20,9 +20,14 @@ head [here](https://www.python.org/downloads/).
 3. ``virtualenv`` is a tool used for creating isolated 'virtual' python environments. It is advisable to create one here as well (to avoid installing the pre-requisites into the system-root). Do the following within the project directory:
 
         $ [sudo] pip install virtualenv
-        $ virtualenv drugADR
+        $ virtualenv --system-site-packages drugADR
         $ source drugADR/bin/activate
 
-To deactivate later, just type ``deactivate``.
+To deactivate once you're done with the project, just type ``deactivate``.
 
-4.
+4. Install the pre-requisites from ``requirements.txt`` & run ``test/init.py`` to check if all the required packages were correctly installed:
+
+        $ pip install -r requirements.txt
+        $ python test/init.py
+
+You should see an output - ``Imports successful. Good to go!``
