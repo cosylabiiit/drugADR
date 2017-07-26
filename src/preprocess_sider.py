@@ -15,7 +15,7 @@ columns = [
     'umls_cui_from_meddra',
     'side_effect_name',
 ]
-df = pd.read_table('meddra_all_se.tsv', names=columns)
+df = pd.read_table('../data/meddra_all_se.tsv', names=columns)
 df.drop(df[df.meddra_type == "LLT"].index, inplace=True)
 print (df.info())
 
