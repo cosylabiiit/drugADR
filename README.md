@@ -1,2 +1,4 @@
 # drugADR
-Code consolidation for work done in summer@Complex Systems Lab (IIIT-Delhi)
+Code consolidation for work done during summer (2017) @Complex Systems Lab (IIIT-Delhi)
+
+# Project : Prediction of drug side effects using machine learning strategies
