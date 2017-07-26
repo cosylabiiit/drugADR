@@ -1,13 +1,13 @@
 # drugADR
 
-The project involves prediction of side effects prediction using existing data ([SIDER](http://http://sideeffects.embl.de/)) by leveraging machine learning with statistical data analysis. During the course of this work the following tasks were performed:
+The project involves prediction of side effects prediction using existing data ([SIDER](http://http://sideeffects.embl.de/)) by leveraging machine learning with statistical data analysis. During the course of this project the following tasks were performed:
 - Dealing with biological, chemical data.
 - Computational manipulation of data from drugs and phenotypic side effects.
 - Implementation of machine learning algorithms for prediction of side effects.
 
 ## Pre-requisites
 
-The following are a couple of instructions to execute different (or all) sections of the project.
+The following are a couple of instructions that must be gone through in order to execute different (or all) sections of this project.
 
 1. Clone the project, replacing ``drugADR`` with the name of the directory you are creating:
 
@@ -34,7 +34,7 @@ You should see an output - ``Imports successful. Good to go!``
 
 ## Directory Structure
 
-##### Top-Level directory structure:
+#### Top-Level directory structure:
 
     .
     ├── src                     # Source files
@@ -44,6 +44,6 @@ You should see an output - ``Imports successful. Good to go!``
     └── README.md
 
 
-##### Files' Description:
+#### Files' Description:
 
-- ``/src/preprocess_sider.py``: Loads the original SIDER data & fetches all the relevant identification tags (Inchi, SMILES etc) required for extraction of the drug chemical properties through ``pubchempy``.
+- ``/src/preprocess_sider.py``: Loads the original SIDER data & fetches all the relevant identification tags (Inchi, SMILES etc) required for extraction of the drug chemical properties through ``pubchempy``. Output of the script is a dataframe (table) dump in ``/data/id_df.sav`` containing various identification tags of all 1430 drugs present in SIDER4.
