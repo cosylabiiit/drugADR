@@ -1,6 +1,6 @@
 # drugADR
 
-The project involves prediction of side effects prediction using existing data ([SIDER](http://http://sideeffects.embl.de/)) by leveraging machine learning with statistical data analysis. During the course of this project the following tasks were performed:
+The project involves prediction of side effects prediction using existing data ([SIDER](http://sideeffects.embl.de/)) by leveraging machine learning with statistical data analysis. During the course of this project the following tasks were performed:
 - Dealing with biological, chemical data.
 - Computational manipulation of data from drugs and phenotypic side effects.
 - Implementation of machine learning algorithms for prediction of side effects.
@@ -39,12 +39,13 @@ You should see an output - ``Imports successful. Good to go!``
     .
     ├── src                     # Source files
     ├── data                    # Data used and/or generated
-    ├── test                    # Result files                  
+    ├── test                    # Results obtained                  
     ├── LICENSE
     └── README.md
 
 
 #### Files' Description:
 
+- ``/data/meddra_all_se.tsv``: File obtained from [SIDER](http://sideeffects.embl.de/download/) containing drug-ADR associations.
 - ``/src/preprocess_sider.py``: Loads the original SIDER data & fetches all the relevant identification tags (Inchi, SMILES etc) required for extraction of the drug chemical properties through ``pubchempy``. Output of the script is a dataframe (table) dump in ``/data/id_df.sav`` containing various identification tags of all 1430 drugs present in SIDER4.
-- ``2d_prop.xlsx`` & ``3d_prop.xlsx``: Chemical Properties for 1430 drugs generated using DiscoveryStudio4.
+- ``/data/2d_prop.xlsx`` & ``/data/3d_prop.xlsx``: Chemical Properties for 1430 drugs generated using DiscoveryStudio4.
