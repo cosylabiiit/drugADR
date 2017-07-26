@@ -35,6 +35,7 @@ You should see an output - ``Imports successful. Good to go!``
 ## Directory Structure
 
 Top-Level directory structure:
+
     .
     ├── src                     # Source files
     ├── data                    # Data used and/or generated
