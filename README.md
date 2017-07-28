@@ -23,7 +23,7 @@ head [here](https://www.python.org/downloads/).
         $ virtualenv --system-site-packages drugADR
         $ source drugADR/bin/activate
 
-To deactivate once you're done with the project, just type ``deactivate``.
+To deactivate later, once you're done with the project, just type ``deactivate``.
 
 4. Install the pre-requisites from ``requirements.txt`` & run ``test/init.py`` to check if all the required packages were correctly installed:
 
