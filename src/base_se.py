@@ -37,8 +37,8 @@ df = df.groupby('stitch_id_flat').side_effect_name.apply(list).reset_index()
 df['pubchem_id'] = df.stitch_id_flat.map(stitch_to_pubchem)
 print (df.head())
 
-d2 = pd.read_excel("2d_prop.xlsx")
-d3 = pd.read_excel("3d_prop.xlsx")
+d2 = pd.read_excel("../data/2d_prop.xlsx")
+d3 = pd.read_excel("../data/3d_prop.xlsx")
 print (d2.shape, d3.shape)
 
 d2 = d2.select_dtypes(include=['int64','float64'])
