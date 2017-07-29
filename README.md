@@ -61,6 +61,9 @@ You should see an output - ``Imports successful. Good to go!``
     │   ├── match.py
     │   ├── preprocess_sider.py
     │   ├── prop_pca.py
+    │   ├── voting_o.py
+    │   ├── voting_osub.py
+    │   ├── voting_osys.py
     ├── test                    # Testing modules (including those for random-control experiments)
     │   ├── init.py
     │   ├── rand_o.py
@@ -85,6 +88,9 @@ You should see an output - ``Imports successful. Good to go!``
 - ``/src/base_o.py``: Prediction of ADR with first level of classification based on anatomical schema -- organ level, 61 classes against 1430 drugs. Generated an output (workbook) in ``/data/o_v2_results.xlsx`` containing the results.
 - ``/src/base_osub.py``: Prediction of ADR with second level of classification based on anatomical schema -- sub-systems level, 30 classes against 1430 drugs. Generated an output (workbook) in ``/data/osub_results.xlsx`` containing the results.
 - ``/src/base_osys.py``: Prediction of ADR with final level of classification based on anatomical schema -- sub-systems level, 11 classes against 1430 drugs. Generated an output (workbook) in ``/data/osys_results.xlsx`` containing the results.
+- ``/src/voting_o.py``: Voting ensemble model at organ level. Generates & stores output ``/data/o_votingModel_results.xlsx``.
+- ``/src/voting_osub.py``: Voting ensemble model at sub-systems level. Generates & stores output ``/data/osub_votingModel_results.xlsx``.
+- ``/src/voting_osys.py``: Voting ensemble model at organ-system level. Generates & stores output ``/data/osys_votingModel_results.xlsx``.
 - ``/test/rand_o.py``: Script to run random-control experiments on organ-level. Generates an output with a compilation of results. ``/data/list_res_organ.sav``.
 - ``/test/rand_osub.py``: Script to run random-control experiments on sub-systems level. Generates an output with a compilation of results.``/data/list_res_Sub_Sys.sav``.
 - ``/test/rand_osys.py``: Script to run random-control experiments on organ-systems level. Generates an output with a compilation of results.``/data/list_res_S.sav``.
