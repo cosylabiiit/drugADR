@@ -67,87 +67,52 @@ def check_availability(x1, x2):
 
 def get_scores(clf, X_t_train, y_train, X_t_test, y_test):
     clf.fit(X_t_train, y_train)
+    y_score = clf.predict_proba(X_t_test)
     app = dict()
     score = fbeta_score(y_test, clf.predict(X_t_test), beta=2, average=None)
+    #auc_score = roc_auc_score(y_test, clf.predict(X_t_test), average='samples')
     avg_sample_score = fbeta_score(y_test, clf.predict(X_t_test), beta=2, average='samples')
     prec_score = precision_score(y_test, clf.predict(X_t_test), average='micro')
     rec_score = recall_score(y_test, clf.predict(X_t_test), average='micro')
     avg_prec = average_precision_score(y_test, clf.predict(X_t_test))
     metrics = [score, avg_sample_score, roc_auc_score(y_test, clf.predict_proba(X_t_test))]
     #app['Classwise Scores'] = ([(mlb.classes_[l], score[l]) for l in score.argsort()[::-1]])
+    fpr = dict()
+    tpr = dict()
+    roc_auc = dict()
+    for i in range(len(list(enumerate(mlb.classes_)))):
+        fpr[i], tpr[i], _ = roc_curve(y_test[:, i], y_score[:, i])
+        roc_auc[mlb.classes_[i]] = auc(fpr[i], tpr[i])
+
     app['F2 Score'] = avg_sample_score
     app['ROC_AUC'] = roc_auc_score(y_test, clf.predict_proba(X_t_test))
+    app['Classwise F2 Scores'] = ([(mlb.classes_[l], score[l]) for l in score.argsort()[::-1]])
     app['P_AUPR'] = avg_prec
     app['Precision'] = prec_score
     app['Recall'] = rec_score
+    app['ROC_AUC_samples'] = roc_auc
     return app
+
 
 li = list()
 
-for r in range(100):
+for r in range(5):
     d = dict()
     random.shuffle(l1)
-    d['o1'] = l1[:65]
-    d['o2'] = l1[65:107]
-    d['o3'] = l1[107:144]
-    d['o4'] = l1[144:228]
-    d['o5'] = l1[228:238]
-    d['o6'] = l1[238:436]
-    d['o7'] = l1[436:818]
-    d['o8'] = l1[818:938]
-    d['o9'] = l1[938:955]
-    d['o10'] = l1[955:962]
-    d['o11'] = l1[962:988]
-    d['o12'] = l1[988:998]
-    d['o13'] = l1[998:1004]
-    d['o14'] = l1[1004:1044]
-    d['o15'] = l1[1044:1087]
-    d['o16'] = l1[1087:1101]
-    d['o17'] = l1[1101:1137]
-    d['o18'] = l1[1137:1169]
-    d['o19'] = l1[1169:1253]
-    d['o20'] = l1[1253:1296]
-    d['o21'] = l1[1296:1316]
-    d['o22'] = l1[1316:1413]
-    d['o23'] = l1[1413:1435]
-    d['o24'] = l1[1435:1471]
-    d['o25'] = l1[1471:1496]
-    d['o26'] = l1[1496:1553]
-    d['o27'] = l1[1553:1574]
-    d['o28'] = l1[1574:1590]
-    d['o29'] = l1[1590:1604]
-    d['o30'] = l1[1604:1612]
-    d['o31'] = l1[1612:1727]
-    d['o32'] = l1[1727:1779]
-    d['o33'] = l1[1779:1888]
-    d['o34'] = l1[1888:1903]
-    d['o35'] = l1[1903:2055]
-    d['o36'] = l1[2055:2115]
-    d['o37'] = l1[2115:2399]
-    d['o38'] = l1[2399:2442]
-    d['o39'] = l1[2442:2466]
-    d['o40'] = l1[2466:2507]
-    d['o41'] = l1[2507:2615]
-    d['o42'] = l1[2615:2644]
-    d['o43'] = l1[2644:2711]
-    d['o44'] = l1[2711:2815]
-    d['o45'] = l1[2815:2863]
-    d['o46'] = l1[2863:2887]
-    d['o47'] = l1[2887:2903]
-    d['o48'] = l1[2903:2913]
-    d['o49'] = l1[2913:2963]
-    d['o50'] = l1[2963:3012]
-    d['o51'] = l1[3012:3093]
-    d['o52'] = l1[3093:3116]
-    d['o53'] = l1[3116:3154]
-    d['o54'] = l1[3154:3213]
-    d['o55'] = l1[3213:3236]
-    d['o56'] = l1[3236:3277]
-    d['o57'] = l1[3277:3302]
-    d['o58'] = l1[3302:3598]
-    d['o59'] = l1[3598:3613]
-    d['o60'] = l1[3613:3635]
-    d['o61'] = l1[3635:3652]
+
+    d['s1'] = l1[:144]
+    d['s2'] = l1[144:238]
+    d['s3'] = l1[238:955]
+    d['s4'] = l1[955:1044]
+    d['s5'] = l1[1044:1553]
+    d['s6'] = l1[1553:1612]
+    d['s7'] = l1[1612:2507]
+    d['s8'] = l1[2507:2711]
+    d['s9'] = l1[2711:2963]
+    d['s10'] = l1[2963:3236]
+    d['s11'] = l1[3236:3325]
+    d['s12'] = l1[3325:3675]
+
     df=pd.DataFrame.from_dict(d,orient='index').transpose()
 
     se = df
@@ -228,4 +193,4 @@ for r in range(100):
 
     li.append(data)
 
-pickle.dump(li, open("../data/list_res_organ.sav",'wb'))
+pickle.dump(li, open("../data/list_res_S.sav",'wb'))
