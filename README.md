@@ -51,4 +51,5 @@ You should see an output - ``Imports successful. Good to go!``
 - ``/data/2d_prop.xlsx`` & ``/data/3d_prop.xlsx``: Chemical Properties for 1430 drugs generated using DiscoveryStudio4. They form the basis of our feature set.
 - ``/src/prop_pca.py``: Code for Principal Component Analysis on 2D & 3D molecular properties of drugs. Outputs cumulative preserved variance of first one hundred principal components (>99%).
 - ``/src/base_se.py``: Code for predicting ADR at the SE level using OneVsRest multi-class multi-label classification. Results generated are saved in a (table/dataframe) ``pickle`` dump ``/data/all_se_clf_data.sav``.
-- 
+- ``/src/base_o.py``: Prediction of ADR with first level of classification based on anatomical schema -- organ level, 61 classes against 1430 drugs. Generated an output (workbook) in ``/data/o_v2_results.xlsx`` containing the results.
+- ``/src/base_osub.py``: Prediction of ADR with second level of classification based on anatomical schema -- sub-systems level, 30 classes against 1430 drugs. Generated an output (workbook) in ``/data/osub_results.xlsx`` containing the results.
