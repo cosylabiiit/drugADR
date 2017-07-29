@@ -39,7 +39,7 @@ You should see an output - ``Imports successful. Good to go!``
     .
     ├── src                     # Source files
     ├── data                    # Data used and/or generated
-    ├── test                    # testing modules (including those for random control experiments)                  
+    ├── test                    # testing modules (including those for random-control experiments)                  
     ├── LICENSE
     └── README.md
 
@@ -57,4 +57,4 @@ You should see an output - ``Imports successful. Good to go!``
 - ``/src/base_o.py``: Prediction of ADR with first level of classification based on anatomical schema -- organ level, 61 classes against 1430 drugs. Generated an output (workbook) in ``/data/o_v2_results.xlsx`` containing the results.
 - ``/src/base_osub.py``: Prediction of ADR with second level of classification based on anatomical schema -- sub-systems level, 30 classes against 1430 drugs. Generated an output (workbook) in ``/data/osub_results.xlsx`` containing the results.
 - ``/src/base_osys.py``: Prediction of ADR with final level of classification based on anatomical schema -- sub-systems level, 11 classes against 1430 drugs. Generated an output (workbook) in ``/data/osys_results.xlsx`` containing the results.
--
+- ``/test/rand_o.py``: Script to run random-control experiments on organ-level. Generates an output ``/data/list_res_organ.sav``.
