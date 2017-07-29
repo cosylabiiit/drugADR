@@ -37,9 +37,34 @@ You should see an output - ``Imports successful. Good to go!``
 #### Top-Level directory structure:
 
     .
-    ├── src                     # Source files
-    ├── data                    # Data used and/or generated
-    ├── test                    # testing modules (including those for random-control experiments)                  
+    ├── data                     # Data used and/or generated
+    │   ├── 2d_prop.xlsx
+    │   ├── 3d_prop.xlsx
+    │   ├── all_se_clf_data.sav
+    │   ├── AssociatedDrugsVsSideEffects.png
+    │   ├── id_df.sav
+    │   ├── list_res_organ.sav
+    │   ├── list_res_S.sav
+    │   ├── list_res_Sub_Sys.sav
+    │   ├── meddra_all_se.tsv
+    │   ├── misc.xlsx
+    │   ├── o_v2.xlsx
+    │   ├── os_v2.xlsx
+    │   ├── SideEffectsVsAssociatedDrugs.png
+    │   ├── sub_sys.xlsx
+    │   ├── unique_SE.csv
+    ├── src                    # Source Files
+    │   ├── base_o.py
+    │   ├── base_osub.py
+    │   ├── base_osys.py
+    │   ├── match.py
+    │   ├── preprocess_sider.py
+    │   ├── prop_pca.py
+    ├── test                    # Testing modules (including those for random-control experiments)
+    │   ├── init.py
+    │   ├── rand_o.py
+    │   ├── random_osub.py
+    │   ├── random_osys.py                  
     ├── LICENSE
     └── README.md
 
@@ -61,4 +86,4 @@ You should see an output - ``Imports successful. Good to go!``
 - ``/test/rand_osub.py``: Script to run random-control experiments on sub-systems level. Generates an output with a compilation of results.``/data/list_res_Sub_Sys.sav``.
 - ``/test/rand_osys.py``: Script to run random-control experiments on organ-systems level. Generates an output with a compilation of results.``/data/list_res_S.sav``.
 
-Description/Information about files other than those mentioned up can be directly inferred from the article/paper. 
+Description/Information about files other than those mentioned up can be directly inferred from the article/paper.
