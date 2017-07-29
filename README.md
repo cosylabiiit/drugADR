@@ -60,3 +60,4 @@ You should see an output - ``Imports successful. Good to go!``
 - ``/test/rand_o.py``: Script to run random-control experiments on organ-level. Generates an output with a compilation of results. ``/data/list_res_organ.sav``.
 - ``/test/rand_osub.py``: Script to run random-control experiments on sub-systems level. Generates an output with a compilation of results.``/data/list_res_Sub_Sys.sav``.
 - ``/test/rand_osub.py``: Script to run random-control experiments on organ-systems level. Generates an output with a compilation of results.``/data/list_res_Sub_Sys.sav``.
+- ``/test/rand_osys.py``: Script to run random-control experiments on organ-systems level. Generates an output with a compilation of results.``/data/list_res_S.sav``.
