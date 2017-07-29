@@ -90,3 +90,13 @@ You should see an output - ``Imports successful. Good to go!``
 - ``/test/rand_osys.py``: Script to run random-control experiments on organ-systems level. Generates an output with a compilation of results.``/data/list_res_S.sav``.
 
 Description/Information about files other than those mentioned up can be directly inferred from the article/paper.
+
+## Directory Structure
+
+To run something simple, simply execute the standalone ``.py`` script via command line:
+
+        $ python3 test/rand_o.py
+        $ python3 src/base_o.py
+        $ python3 src/prop_pca.py
+
+Advisory: All these experiments were carried out on IIIT-Delhi's HPC server-node with [these specifications](http://it.iiitd.edu.in/HPC_final_doc.pdf) due to the volume & time of compute required. It is advised to run any tests in a similar environment. 
