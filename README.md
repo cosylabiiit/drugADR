@@ -37,6 +37,7 @@ You should see an output - ``Imports successful. Good to go!``
 #### Top-Level directory structure:
 
     .
+    .
     ├── data                     # Data used and/or generated
     │   ├── 2d_prop.xlsx
     │   ├── 3d_prop.xlsx
@@ -67,6 +68,8 @@ You should see an output - ``Imports successful. Good to go!``
     │   ├── random_osys.py                  
     ├── LICENSE
     └── README.md
+    .
+    .
 
 
 #### Files' Description:
