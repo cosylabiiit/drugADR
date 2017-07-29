@@ -1,0 +1,4315 @@
+,side_effect_name,stitch_id_flat
+0,5'nucleotidase increased,1
+1,AIDS dementia complex,1
+2,Abasia,2
+3,Abdominal abscess,2
+4,Abdominal adhesions,1
+5,Abdominal discomfort,362
+6,Abdominal distension,384
+7,Abdominal hernia,1
+8,Abdominal infection,1
+9,Abdominal injury,1
+10,Abdominal neoplasm,2
+11,Abdominal pain,1009
+12,Abdominal pain lower,47
+13,Abdominal pain upper,303
+14,Abdominal rigidity,4
+15,Abdominal sepsis,1
+16,Abdominal strangulated hernia,1
+17,Abdominal symptom,5
+18,Abdominal tenderness,30
+19,Abdominal wall abscess,1
+20,Abnormal behaviour,45
+21,Abnormal clotting factor,1
+22,Abnormal dreams,167
+23,Abnormal faeces,35
+24,Abnormal labour,4
+25,Abnormal sensation in eye,17
+26,Abnormal sleep-related event,1
+27,Abnormal withdrawal bleeding,7
+28,Abortion,6
+29,Abortion incomplete,1
+30,Abortion infected,1
+31,Abortion missed,3
+32,Abortion spontaneous,17
+33,Abscess,117
+34,Abscess limb,3
+35,Abscess sterile,1
+36,Acanthosis nigricans,1
+37,Acarodermatitis,2
+38,Accident,1
+39,Accident at home,1
+40,Accidental exposure to product,8
+41,Accidental overdose,5
+42,Accommodation disorder,74
+43,Acetonaemia,1
+44,Acidosis,69
+45,Acidosis hyperchloraemic,2
+46,Acne,146
+47,Acne cystic,2
+48,Acne fulminans,1
+49,Acne infantile,1
+50,Acne pustular,1
+51,Acquired haemophilia,2
+52,Acquired immunodeficiency syndrome,17
+53,Acquired lipoatrophic diabetes,1
+54,Acrochordon,2
+55,Acrodynia,1
+56,Acromegaly,1
+57,Actinic keratosis,6
+58,Action tremor,4
+59,Activated partial thromboplastin time prolonged,16
+60,Activated partial thromboplastin time shortened,1
+61,Activation syndrome,1
+62,Acute abdomen,6
+63,Acute coronary syndrome,359
+64,Acute disseminated encephalomyelitis,1
+65,Acute febrile neutrophilic dermatosis,10
+66,Acute generalised exanthematous pustulosis,24
+67,Acute graft versus host disease,2
+68,Acute hepatic failure,19
+69,Acute interstitial pneumonitis,7
+70,Acute leukaemia,40
+71,Acute lymphocytic leukaemia,6
+72,Acute myeloid leukaemia,17
+73,Acute myocardial infarction,22
+74,Acute phase reaction,4
+75,Acute phosphate nephropathy,2
+76,Acute prerenal failure,3
+77,Acute promyelocytic leukaemia,2
+78,Acute promyelocytic leukaemia differentiation syndrome,2
+79,Acute psychosis,11
+80,Acute pulmonary oedema,9
+81,Acute respiratory distress syndrome,41
+82,Acute respiratory failure,4
+83,Acute sinusitis,8
+84,Acute stress disorder,1
+85,Acute tonsillitis,5
+86,Acute yellow liver atrophy,6
+87,Adams-Stokes syndrome,3
+88,Addison's disease,6
+89,Adenocarcinoma,9
+90,Adenocarcinoma pancreas,1
+91,Adenoma benign,9
+92,Adenomyosis,1
+93,Adenovirus infection,1
+94,Adhesion,1
+95,Adjustment disorder,4
+96,Administration site infection,6
+97,Administration site reaction,11
+98,Adnexa uteri cyst,1
+99,Adnexa uteri mass,1
+100,Adnexa uteri pain,2
+101,Adnexal torsion,4
+102,Adrenal atrophy,1
+103,Adrenal disorder,3
+104,Adrenal gland cancer,1
+105,Adrenal haemorrhage,3
+106,Adrenal insufficiency,26
+107,Adrenergic syndrome,2
+108,Adrenocortical insufficiency acute,7
+109,Adverse reaction,7
+110,Aerophagia,1
+111,Affect lability,258
+112,Affective disorder,16
+113,Ageusia,116
+114,Aggression,146
+115,Agitation,687
+116,Agitation postoperative,1
+117,Agnosia,1
+118,Agoraphobia,2
+119,Agranulocytosis,359
+120,Airway complication of anaesthesia,3
+121,Akathisia,80
+122,Akinaesthesia,1
+123,Akinesia,30
+124,Alanine aminotransferase abnormal,1
+125,Alanine aminotransferase decreased,1
+126,Alanine aminotransferase increased,292
+127,Alanine aminotransferase normal,1
+128,Albinism,2
+129,Albumin globulin ratio abnormal,3
+130,Albumin urine present,4
+131,Albuminuria,105
+132,Alcohol abuse,17
+133,Alcohol intolerance,38
+134,Alcohol poisoning,4
+135,Alcohol problem,1
+136,Alcohol withdrawal syndrome,2
+137,Alcoholic pancreatitis,2
+138,Alcoholic psychosis,1
+139,Alcoholism,10
+140,Alkalosis,14
+141,Alkalosis hypochloraemic,3
+142,Alkalosis hypokalaemic,16
+143,Allergic conditions,7
+144,Allergic granulomatous angiitis,4
+145,Allergic hepatitis,1
+146,Allergic oedema,10
+147,Allergic sinusitis,2
+148,Allodynia,1
+149,Alopecia,491
+150,Altered state of consciousness,60
+151,Altered visual depth perception,3
+152,Alveolar osteitis,4
+153,Alveolar proteinosis,2
+154,Alveolitis,12
+155,Alveolitis allergic,29
+156,Amaurosis,3
+157,Amaurosis fugax,2
+158,Amblyopia,108
+159,Amenorrhoea,130
+160,Aminoaciduria,3
+161,Ammonia increased,2
+162,Amnesia,235
+163,Amnestic symptoms,1
+164,Amniotic cavity infection,1
+165,Amylase decreased,1
+166,Amylase increased,76
+167,Amyloidosis,4
+168,Anaemia,561
+169,Anaemia macrocytic,10
+170,Anaemia megaloblastic,28
+171,Anaemia neonatal,1
+172,Anaemia postoperative,4
+173,Anaemia vitamin B12 deficiency,3
+174,Anaemias NEC,1
+175,Anaemias haemolytic immune,6
+176,Anaesthetic complication,1
+177,Anaesthetic complication neurological,1
+178,Anal abscess,2
+179,Anal atresia,1
+180,Anal cancer,2
+181,Anal candidiasis,1
+182,Anal fissure,9
+183,Anal fistula,3
+184,Anal haemorrhage,5
+185,Anal inflammation,2
+186,Anal pruritus,21
+187,Anal skin tags,1
+188,Anal spasm,1
+189,Anal sphincter atony,1
+190,Analgesic therapy,1
+191,Anaphylactic responses,3
+192,Anaphylactic shock,851
+193,Anaphylactoid reaction,266
+194,Anaphylactoid syndrome of pregnancy,3
+195,Anaplastic astrocytoma,1
+196,Anaplastic large-cell lymphoma,1
+197,Anaplastic thyroid cancer,1
+198,Anastomotic leak,1
+199,Anastomotic ulcer,1
+200,Androgenetic alopecia,8
+201,Anencephaly,6
+202,Aneurysm,14
+203,Anger,41
+204,Angina pectoris,338
+205,Angina unstable,28
+206,Angiodermatitis,1
+207,Angioedema,571
+208,Angioimmunoblastic T-cell lymphoma,1
+209,Angiomyolipoma,1
+210,Angiopathy,472
+211,Angle closure glaucoma,34
+212,Anhedonia,1
+213,Anhidrosis,7
+214,Animal bite,2
+215,Animal scratch,1
+216,Anion gap increased,1
+217,Anisocytosis,2
+218,Ankle fracture,1
+219,Ankylosing spondylitis,3
+220,Anogenital warts,3
+221,Anophthalmos,1
+222,Anorectal discomfort,89
+223,Anorectal disorder,64
+224,Anorgasmia,26
+225,Anosmia,22
+226,Anosognosia,1
+227,Anovulatory cycle,5
+228,Anoxia,4
+229,Anterior chamber cell,2
+230,Anterior chamber flare,5
+231,Anterior chamber inflammation,6
+232,Anterior chamber pigmentation,1
+233,Anterior spinal artery syndrome,3
+234,Anterograde amnesia,11
+235,Anthrax,1
+236,Anti-thyroid antibody positive,1
+237,Antibody test negative,1
+238,Antibody test positive,2
+239,Anticholinergic syndrome,4
+240,Antidiuretic hormone abnormality,2
+241,Antineutrophil cytoplasmic antibody positive,1
+242,Antinuclear antibody increased,4
+243,Antinuclear antibody positive,33
+244,Antisocial behaviour,7
+245,Antisocial personality disorder,7
+246,Antitussive therapy,1
+247,Anuria,41
+248,Anxiety,612
+249,Anxiety disorder,15
+250,Aortic aneurysm,5
+251,Aortic aneurysm rupture,1
+252,Aortic arteriosclerosis,1
+253,Aortic bruit,1
+254,Aortic disorder,1
+255,Aortic dissection,1
+256,Aortic embolus,1
+257,Aortic rupture,1
+258,Aortic valve incompetence,4
+259,Aortic valve sclerosis,1
+260,Aortic valve stenosis,10
+261,Apathy,90
+262,Apgar score low,2
+263,Aphagia,3
+264,Aphakia,1
+265,Aphasia,100
+266,Aphonia,8
+267,Aphthous stomatitis,61
+268,Aplasia,13
+269,Aplasia cutis congenita,1
+270,Aplasia pure red cell,19
+271,Aplastic anaemia,171
+272,Apnoea,124
+273,Apocrine and eccrine gland disorders,1
+274,Apoptosis,1
+275,Appendicitis,18
+276,Appetite disorder,10
+277,Application and instillation site reactions,1
+278,Application site anaesthesia,2
+279,Application site atrophy,4
+280,Application site burn,26
+281,Application site cellulitis,1
+282,Application site discharge,3
+283,Application site discolouration,5
+284,Application site discomfort,3
+285,Application site dryness,12
+286,Application site eczema,3
+287,Application site erosion,6
+288,Application site erythema,29
+289,Application site exfoliation,7
+290,Application site folliculitis,1
+291,Application site haematoma,3
+292,Application site haemorrhage,3
+293,Application site hyperaesthesia,2
+294,Application site hypersensitivity,5
+295,Application site induration,5
+296,Application site infection,1
+297,Application site inflammation,4
+298,Application site irritation,33
+299,Application site oedema,8
+300,Application site pain,74
+301,Application site papules,4
+302,Application site paraesthesia,7
+303,Application site pruritus,26
+304,Application site pustules,1
+305,Application site rash,24
+306,Application site reaction,54
+307,Application site scab,2
+308,Application site scar,1
+309,Application site swelling,3
+310,Application site ulcer,3
+311,Application site urticaria,1
+312,Application site vesicles,10
+313,Application site warmth,6
+314,Apraxia,9
+315,Arachnoiditis,21
+316,Arcus lipoides,2
+317,Areflexia,12
+318,Argininosuccinate synthetase deficiency,1
+319,Arrhythmia,429
+320,Arrhythmia supraventricular,55
+321,Arterial disorder,1
+322,Arterial insufficiency,5
+323,Arterial occlusive disease,5
+324,Arterial spasm,8
+325,Arterial thrombosis,30
+326,Arteriosclerosis,17
+327,Arteriosclerosis coronary artery,2
+328,Arteriosclerotic retinopathy,1
+329,Arteriospasm coronary,13
+330,Arteriovenous fistula,4
+331,Arteriovenous fistula thrombosis,1
+332,Arteritis,9
+333,Artery dissection,1
+334,Arthralgia,649
+335,Arthritis,267
+336,Arthritis bacterial,4
+337,Arthritis infective,2
+338,Arthropathy,139
+339,Arthropod bite,10
+340,Arthropod sting,2
+341,Ascariasis,1
+342,Ascites,51
+343,Asocial behaviour,7
+344,Aspartate aminotransferase decreased,1
+345,Aspartate aminotransferase increased,298
+346,Aspartate aminotransferase normal,2
+347,Aspergilloma,1
+348,Aspergillus infection,5
+349,Aspermia,1
+350,Asphyxia,16
+351,Aspiration,3
+352,Assisted fertilisation,5
+353,Asteatosis,2
+354,Asterixis,11
+355,Asthenia,1513
+356,Asthenic conditions,17
+357,Asthenopia,16
+358,Asthma,311
+359,Astrocytoma,2
+360,Asymptomatic bacteriuria,1
+361,Ataxia,252
+362,Atelectasis,40
+363,Athetosis,3
+364,Atonic urinary bladder,2
+365,Atopy,1
+366,Atrial fibrillation,230
+367,Atrial flutter,46
+368,Atrial hypertrophy,1
+369,Atrial septal defect,3
+370,Atrial tachycardia,7
+371,Atrioventricular block,174
+372,Atrioventricular block complete,34
+373,Atrioventricular block first degree,46
+374,Atrioventricular block second degree,31
+375,Atrioventricular dissociation,4
+376,Atrophic glossitis,1
+377,Atrophic vulvovaginitis,8
+378,Atrophy,48
+379,Attention deficit/hyperactivity disorder,10
+380,Atypical femur fracture,2
+381,Atypical fracture,1
+382,Atypical mycobacterial infection,2
+383,Atypical pneumonia,3
+384,Aura,5
+385,Auricular swelling,4
+386,Autism,1
+387,Autism spectrum disorder,1
+388,Autoimmune disorder,39
+389,Autoimmune haemolytic anaemia,8
+390,Autoimmune hepatitis,4
+391,Autoimmune thrombocytopenia,2
+392,Automatism,1
+393,Autonomic nervous system imbalance,23
+394,Autonomic neuropathy,24
+395,Axonal neuropathy,1
+396,Azoospermia,39
+397,Azotaemia,73
+398,B-cell lymphoma,4
+399,B-cell type acute leukaemia,1
+400,BK virus infection,2
+401,Back disorder,1
+402,Back injury,4
+403,Back pain,550
+404,Bacteraemia,24
+405,Bacterial disease carrier,5
+406,Bacterial infection,60
+407,Bacterial infections NEC,1
+408,Bacterial prostatitis,1
+409,Bacterial test positive,1
+410,Bacteriuria,4
+411,Balance disorder,73
+412,Balanitis,16
+413,Balanitis candida,2
+414,Balanoposthitis,8
+415,Band neutrophil count increased,1
+416,Barium impaction,1
+417,Barrett's oesophagus,4
+418,Bartholin's cyst,1
+419,Basal cell carcinoma,28
+420,Basedow's disease,21
+421,Basophilia,9
+422,Beckwith-Wiedemann syndrome,1
+423,Bedridden,2
+424,Benign breast neoplasm,8
+425,Benign gastrointestinal neoplasm,2
+426,Benign hepatic neoplasm,1
+427,Benign hydatidiform mole,2
+428,Benign intracranial hypertension,42
+429,Benign neoplasm,4
+430,Benign neoplasm of skin,14
+431,Benign prostatic hyperplasia,16
+432,Benign vaginal neoplasm,1
+433,Beta 2 microglobulin increased,1
+434,Beta 2 microglobulin urine increased,1
+435,Bezoar,4
+436,Bicytopenia,1
+437,Bile duct cancer,1
+438,Bile duct disorders,2
+439,Bile duct neoplasms malignant,1
+440,Bile duct stenosis,2
+441,Biliary colic,28
+442,Biliary fibrosis,2
+443,Biliary tract disorder,2
+444,Bilirubin conjugated increased,5
+445,Binge eating,8
+446,Bipolar I disorder,15
+447,Bipolar disorder,14
+448,Bladder and urethral symptoms,4
+449,Bladder cancer,20
+450,Bladder dilatation,2
+451,Bladder discomfort,3
+452,Bladder disorder,3
+453,Bladder diverticulum,1
+454,Bladder dysfunction,9
+455,Bladder fibrosis,2
+456,Bladder irritation,3
+457,Bladder neck obstruction,4
+458,Bladder necrosis,1
+459,Bladder neoplasm,4
+460,Bladder pain,183
+461,Bladder spasm,15
+462,Bladder stenosis,3
+463,Blast cell crisis,2
+464,Blastomycosis,1
+465,Bleeding time prolonged,28
+466,Blepharal pigmentation,2
+467,Blepharitis,82
+468,Blepharitis allergic,2
+469,Blepharospasm,23
+470,Blighted ovum,2
+471,Blindness,85
+472,Blindness cortical,14
+473,Blindness day,1
+474,Blindness transient,15
+475,Blindness unilateral,4
+476,Blister,103
+477,Blood acid phosphatase increased,1
+478,Blood albumin decreased,30
+479,Blood albumin increased,3
+480,Blood alkaline phosphatase increased,234
+481,Blood and lymphatic system disorders,360
+482,Blood antidiuretic hormone abnormal,2
+483,Blood bicarbonate,1
+484,Blood bicarbonate decreased,8
+485,Blood bicarbonate increased,4
+486,Blood bilirubin abnormal,5
+487,Blood bilirubin decreased,6
+488,Blood bilirubin increased,161
+489,Blood bilirubin normal,1
+490,Blood bilirubin unconjugated increased,2
+491,Blood calcium abnormal,2
+492,Blood calcium decreased,25
+493,Blood chloride decreased,5
+494,Blood chloride increased,3
+495,Blood cholesterol abnormal,2
+496,Blood cholesterol decreased,1
+497,Blood cholesterol increased,50
+498,Blood copper decreased,1
+499,Blood cortisol decreased,6
+500,Blood cortisol increased,1
+501,Blood count abnormal,1
+502,Blood creatine increased,4
+503,Blood creatine phosphokinase MB increased,2
+504,Blood creatine phosphokinase MM increased,1
+505,Blood creatine phosphokinase abnormal,1
+506,Blood creatine phosphokinase increased,113
+507,Blood creatinine abnormal,9
+508,Blood creatinine decreased,23
+509,Blood creatinine increased,344
+510,Blood creatinine normal,1
+511,Blood culture positive,4
+512,Blood disorder,126
+513,Blood electrolytes abnormal,9
+514,Blood electrolytes decreased,1
+515,Blood fibrinogen decreased,1
+516,Blood fibrinogen increased,1
+517,Blood follicle stimulating hormone increased,1
+518,Blood gases abnormal,2
+519,Blood gastrin increased,3
+520,Blood glucose abnormal,3
+521,Blood glucose decreased,24
+522,Blood glucose fluctuation,2
+523,Blood glucose increased,74
+524,Blood gonadotrophin decreased,1
+525,Blood gonadotrophin increased,1
+526,Blood growth hormone increased,1
+527,Blood immunoglobulin G decreased,1
+528,Blood insulin decreased,1
+529,Blood insulin increased,9
+530,Blood iron abnormal,1
+531,Blood iron decreased,6
+532,Blood iron increased,5
+533,Blood lactate dehydrogenase increased,101
+534,Blood luteinising hormone increased,2
+535,Blood magnesium decreased,7
+536,Blood magnesium increased,1
+537,Blood methaemoglobin present,1
+538,Blood oestrogen decreased,3
+539,Blood oestrogen increased,1
+540,Blood osmolarity decreased,2
+541,Blood osmolarity increased,3
+542,Blood pH decreased,2
+543,Blood parathyroid hormone increased,3
+544,Blood phosphorus decreased,15
+545,Blood phosphorus increased,7
+546,Blood potassium abnormal,3
+547,Blood potassium decreased,51
+548,Blood potassium increased,39
+549,Blood pressure abnormal,2
+550,Blood pressure diastolic decreased,9
+551,Blood pressure diastolic increased,3
+552,Blood pressure fluctuation,21
+553,Blood pressure inadequately controlled,1
+554,Blood pressure increased,158
+555,Blood pressure normal,2
+556,Blood pressure systolic decreased,9
+557,Blood pressure systolic increased,11
+558,Blood prolactin decreased,2
+559,Blood prolactin increased,26
+560,Blood sodium abnormal,1
+561,Blood sodium increased,13
+562,Blood test abnormal,1
+563,Blood testosterone decreased,16
+564,Blood testosterone free increased,1
+565,Blood testosterone increased,8
+566,Blood thromboplastin decreased,5
+567,Blood thyroid stimulating hormone decreased,2
+568,Blood thyroid stimulating hormone increased,18
+569,Blood triglycerides decreased,1
+570,Blood triglycerides increased,123
+571,Blood urea abnormal,2
+572,Blood urea decreased,1
+573,Blood urea increased,196
+574,Blood urea normal,1
+575,Blood uric acid abnormal,1
+576,Blood uric acid decreased,2
+577,Blood uric acid increased,174
+578,Blood urine,15
+579,Blood urine present,26
+580,Blood zinc decreased,1
+581,Bloody discharge,1
+582,Blue toe syndrome,1
+583,Blunted affect,5
+584,Body fat disorder,1
+585,Body height decreased,1
+586,Body mass index decreased,1
+587,Body temperature altered,1
+588,Body temperature decreased,68
+589,Body temperature fluctuation,1
+590,Body temperature increased,892
+591,Body tinea,1
+592,Bone and joint infections,1
+593,Bone cancer metastatic,5
+594,Bone density decreased,8
+595,Bone development abnormal,1
+596,Bone disorder,132
+597,Bone lesion,1
+598,Bone marrow disorder,2
+599,Bone marrow granuloma,1
+600,Bone marrow toxicity,5
+601,Bone metabolism disorder,2
+602,Bone neoplasm,4
+603,Bone pain,164
+604,Bone sarcoma,1
+605,Bovine tuberculosis,1
+606,Bowen's disease,2
+607,Brachial plexus injury,1
+608,Bradyarrhythmia,3
+609,Bradycardia,390
+610,Bradycardia foetal,1
+611,Bradykinesia,18
+612,Bradyphrenia,13
+613,Brain abscess,2
+614,Brain cancer metastatic,5
+615,Brain herniation,1
+616,Brain hypoxia,3
+617,Brain injury,14
+618,Brain neoplasm,7
+619,Brain neoplasm benign,2
+620,Brain oedema,36
+621,Brain stem glioma,1
+622,Brain stem haemorrhage,2
+623,Brain stem syndrome,1
+624,Breakthrough pain,3
+625,Breast abscess,4
+626,Breast atrophy,5
+627,Breast calcifications,2
+628,Breast cancer,58
+629,Breast cancer female,2
+630,Breast cancer male,3
+631,Breast cancer stage IV,3
+632,Breast cyst,3
+633,Breast discharge,26
+634,Breast discomfort,16
+635,Breast disorder,270
+636,Breast disorder female,2
+637,Breast engorgement,19
+638,Breast enlargement,97
+639,Breast feeding,37
+640,Breast fibroma,1
+641,Breast fibrosis,1
+642,Breast induration,4
+643,Breast malformation,1
+644,Breast mass,10
+645,Breast neoplasm,29
+646,Breast oedema,2
+647,Breast pain,146
+648,Breast swelling,10
+649,Breast tenderness,47
+650,Breath holding,6
+651,Breath odour,43
+652,Breath sounds abnormal,28
+653,Breech presentation,1
+654,Bronchial disorder,1
+655,Bronchial haemorrhage,1
+656,Bronchial hyperreactivity,25
+657,Bronchial obstruction,3
+658,Bronchial secretion retention,1
+659,Bronchial ulceration,1
+660,Bronchiectasis,3
+661,Bronchiolitis,4
+662,Bronchioloalveolar carcinoma,1
+663,Bronchitis,327
+664,Bronchitis bacterial,1
+665,Bronchitis viral,2
+666,Bronchopneumonia,15
+667,Bronchopneumopathy,2
+668,Bronchopulmonary aspergillosis,2
+669,Bronchopulmonary dysplasia,1
+670,Bronchospasm,321
+671,Bronchospasm paradoxical,17
+672,Bronchostenosis,1
+673,Brown tumour,1
+674,Brugada syndrome,1
+675,Bruxism,28
+676,Buccal mucosal roughening,1
+677,Buccoglossal syndrome,6
+678,Budd-Chiari syndrome,2
+679,Bulimia nervosa,3
+680,Bullous conditions,5
+681,Bullous impetigo,2
+682,Bundle branch block,67
+683,Bundle branch block left,10
+684,Bundle branch block right,10
+685,Burkitt's lymphoma,4
+686,Burning mouth syndrome,3
+687,Burning sensation,106
+688,Burns second degree,2
+689,Bursitis,64
+690,C-reactive protein increased,7
+691,CD4 lymphocytes decreased,1
+692,Cachexia,29
+693,Caecitis,10
+694,Calcification metastatic,1
+695,Calcinosis,13
+696,Calciphylaxis,1
+697,Calcium deficiency,1
+698,Calcium intoxication,1
+699,Calcium metabolism disorder,1
+700,Calculus bladder,5
+701,Calculus ureteric,3
+702,Calculus urinary,9
+703,Cancer pain,8
+704,Candida cervicitis,1
+705,Candida infection,249
+706,Candida sepsis,1
+707,Candiduria,5
+708,Capillary fragility,2
+709,Capillary fragility increased,4
+710,Capillary leak syndrome,8
+711,Carbohydrate tolerance decreased,19
+712,Carbon dioxide decreased,3
+713,Carbon dioxide increased,12
+714,Carbuncle,2
+715,Carcinogenicity,4
+716,Carcinoid tumour,1
+717,Carcinoma in situ,1
+718,Cardiac amyloidosis,1
+719,Cardiac arrest,254
+720,Cardiac death,6
+721,Cardiac discomfort,1
+722,Cardiac disorder,436
+723,Cardiac enzymes increased,1
+724,Cardiac failure,232
+725,Cardiac failure acute,5
+726,Cardiac failure congestive,217
+727,Cardiac failure high output,1
+728,Cardiac fibrillation,29
+729,Cardiac flutter,16
+730,Cardiac hypertrophy,4
+731,Cardiac murmur,40
+732,Cardiac output decreased,16
+733,Cardiac output increased,1
+734,Cardiac septal defect,1
+735,Cardiac tamponade,14
+736,Cardiac valve disease,20
+737,Cardiac valve replacement complication,1
+738,Cardio-respiratory arrest,47
+739,Cardio-respiratory distress,1
+740,Cardioactive drug level above therapeutic,1
+741,Cardioactive drug level increased,1
+742,Cardiogenic shock,23
+743,Cardiomegaly,44
+744,Cardiomyopathy,69
+745,Cardiopulmonary failure,5
+746,Cardiotoxicity,26
+747,Cardiovascular disorder,128
+748,Cardiovascular insufficiency,13
+749,Carditis,1
+750,Carotene decreased,1
+751,Carotid artery occlusion,4
+752,Carotid artery stenosis,1
+753,Carotid artery thrombosis,1
+754,Carotid bruit,2
+755,Carotid pulse,1
+756,Carotid sinus syndrome,1
+757,Carpal tunnel syndrome,26
+758,Cataplexy,4
+759,Cataract,157
+760,Cataract conditions,1
+761,Cataract cortical,1
+762,Cataract diabetic,1
+763,Cataract nuclear,1
+764,Cataract subcapsular,43
+765,Cataract traumatic,2
+766,Catatonia,33
+767,Catheter site cellulitis,1
+768,Catheter site erythema,4
+769,Catheter site haemorrhage,7
+770,Catheter site infection,4
+771,Catheter site inflammation,1
+772,Catheter site pain,7
+773,Catheter site phlebitis,2
+774,Catheter site related reaction,1
+775,Cauda equina syndrome,8
+776,Cellulitis,143
+777,Cellulitis gangrenous,5
+778,Cellulitis staphylococcal,1
+779,Central nervous system haemorrhage,1
+780,Central nervous system infection,2
+781,Central nervous system neoplasm,9
+782,Central nervous system stimulation,5
+783,Central obesity,2
+784,Cerebellar ataxia,4
+785,Cerebellar atrophy,1
+786,Cerebellar infarction,2
+787,Cerebellar syndrome,19
+788,Cerebral arteriosclerosis,2
+789,Cerebral arteritis,5
+790,Cerebral artery embolism,5
+791,Cerebral artery stenosis,1
+792,Cerebral atrophy,2
+793,Cerebral haematoma,2
+794,Cerebral haemorrhage,80
+795,Cerebral hypoperfusion,1
+796,Cerebral infarction,42
+797,Cerebral ischaemia,61
+798,Cerebral thrombosis,10
+799,Cerebral vasoconstriction,3
+800,Cerebral venous thrombosis,2
+801,Cerebrospinal fluid leakage,2
+802,Cerebrovascular accident,236
+803,Cerebrovascular disorder,51
+804,Cerebrovascular insufficiency,3
+805,Cerumen impaction,5
+806,Cervical discharge,2
+807,Cervical dysplasia,9
+808,Cervical incompetence,1
+809,Cervical polyp,3
+810,Cervical vertebral fracture,1
+811,Cervicitis,7
+812,Cervicobrachial syndrome,3
+813,Cervix carcinoma,5
+814,Cervix carcinoma stage 0,3
+815,Cervix disorder,12
+816,Cervix haemorrhage uterine,1
+817,Cervix neoplasm,1
+818,Chalazion,4
+819,Change of bowel habit,10
+820,Chapped lips,7
+821,Cheilitis,52
+822,Cheilosis,6
+823,Chemical cystitis,5
+824,Chemical eye injury,1
+825,Chemical injury,2
+826,Chemical peritonitis,2
+827,Chest X-ray abnormal,2
+828,Chest X-ray normal,1
+829,Chest discomfort,162
+830,Chest pain,695
+831,Cheyne-Stokes respiration,4
+832,Chills,567
+833,Chlamydial infection,1
+834,Chloasma,24
+835,Chloropsia,1
+836,Choking,17
+837,Choking sensation,6
+838,Cholangiocarcinoma,2
+839,Cholangitis,18
+840,Cholangitis sclerosing,3
+841,Cholecystitis,79
+842,Cholecystitis acute,5
+843,Cholecystitis and cholelithiasis,2
+844,Cholecystitis chronic,2
+845,Cholecystitis infective,1
+846,Cholelithiasis,93
+847,Cholestasis,119
+848,Cholestatic liver injury,2
+849,Cholinergic syndrome,8
+850,Choluria,1
+851,Chondrocalcinosis,1
+852,Chondrodystrophy,3
+853,Chondrolysis,1
+854,Chondropathy,2
+855,Chorea,25
+856,Choreoathetosis,29
+857,Choriocarcinoma,1
+858,Chorioretinitis,2
+859,Chorioretinopathy,6
+860,Choroidal detachment,4
+861,Choroidal effusion,1
+862,Choroiditis,2
+863,Chromatopsia,11
+864,Chromaturia,41
+865,Chromosomal mutation,1
+866,Chronic allograft nephropathy,1
+867,Chronic eosinophilic leukaemia,1
+868,Chronic fatigue syndrome,1
+869,Chronic graft versus host disease,2
+870,Chronic hepatic failure,1
+871,Chronic hepatitis,4
+872,Chronic hepatitis B,4
+873,Chronic leukaemia,1
+874,Chronic lymphocytic leukaemia,4
+875,Chronic myeloid leukaemia,7
+876,Chronic myelomonocytic leukaemia,1
+877,Chronic obstructive pulmonary disease,31
+878,Chronic sinusitis,2
+879,Chrysiasis,1
+880,Chylothorax,1
+881,Ciliary muscle spasm,2
+882,Cinchonism,3
+883,Circadian rhythm sleep disorder,2
+884,Circumoral oedema,3
+885,Cirrhosis alcoholic,2
+886,Citrate toxicity,1
+887,Claustrophobia,2
+888,Clavicle fracture,1
+889,Cleft lip,3
+890,Cleft palate,6
+891,Clitoral engorgement,1
+892,Cloacal exstrophy,1
+893,Clonic convulsion,10
+894,Clonus,11
+895,Clostridial infection,4
+896,Clostridium colitis,3
+897,Clostridium difficile colitis,22
+898,Clubbing,1
+899,Clumsiness,4
+900,Cluster headache,1
+901,Coagulation factor decreased,1
+902,Coagulation test abnormal,2
+903,Coagulation time prolonged,10
+904,Coagulopathy,122
+905,Coarctation of the aorta,1
+906,Coccydynia,2
+907,Cognitive disorder,65
+908,Cogwheel rigidity,20
+909,Coital bleeding,1
+910,Cold sweat,61
+911,Colitis,159
+912,Colitis ischaemic,35
+913,Colitis microscopic,5
+914,Colitis ulcerative,28
+915,Collagen disorder,6
+916,Collagen-vascular disease,1
+917,Colon cancer,4
+918,Colonic abscess,2
+919,Colonic pseudo-obstruction,3
+920,Colorectal cancer,2
+921,Colorectal cancer metastatic,2
+922,Colour blindness,9
+923,Colour blindness acquired,5
+924,Colpocele,1
+925,Coma,180
+926,Coma hepatic,10
+927,Community acquired infection,1
+928,Compartment syndrome,9
+929,Completed suicide,79
+930,Complex partial seizures,1
+931,Complex regional pain syndrome,5
+932,Complication of delivery,1
+933,Complication of device insertion,1
+934,Complication of pregnancy,2
+935,Complications of transplant surgery,1
+936,Compression fracture,2
+937,Compulsions,7
+938,Compulsive sexual behaviour,1
+939,Compulsive shopping,2
+940,Concussion,4
+941,Condition aggravated,20
+942,Conduction disorder,23
+943,Confusion postoperative,1
+944,Confusional state,575
+945,Congenital absence of bile ducts,1
+946,Congenital anomaly,45
+947,Congenital arterial malformation,4
+948,Congenital central nervous system anomaly,4
+949,Congenital cystic kidney disease,3
+950,Congenital diaphragmatic hernia,1
+951,Congenital eye disorder,22
+952,Congenital foot malformation,2
+953,Congenital generalised lipodystrophy,1
+954,Congenital genital malformation,2
+955,Congenital genitourinary abnormality,7
+956,Congenital hydronephrosis,1
+957,Congenital hypothyroidism,1
+958,Congenital joint malformation,1
+959,Congenital limb hyperextension,1
+960,Congenital megacolon,1
+961,Congenital musculoskeletal anomaly,2
+962,Congenital oral malformation,1
+963,Congenital renal cyst,1
+964,Congenital skin disorder,4
+965,Congenital vesicoureteric reflux,1
+966,Congestive cardiomyopathy,8
+967,Conjoined twins,1
+968,Conjunctival bleb,1
+969,Conjunctival cyst,1
+970,Conjunctival disorder,7
+971,Conjunctival follicles,6
+972,Conjunctival haemorrhage,38
+973,Conjunctival hyperaemia,58
+974,Conjunctival irritation,5
+975,Conjunctival oedema,39
+976,Conjunctival ulcer,1
+977,Conjunctivitis,368
+978,Conjunctivitis allergic,15
+979,Conjunctivitis bacterial,1
+980,Conjunctivitis infective,2
+981,Connective tissue disorder,420
+982,Connective tissue inflammation,1
+983,Constipation,771
+984,Contact lens intolerance,7
+985,Contracted bladder,1
+986,Contrast media reaction,3
+987,Contusion,145
+988,Conversion disorder,23
+989,Convulsion,573
+990,Convulsion neonatal,1
+991,Coombs direct test positive,2
+992,Coombs positive haemolytic anaemia,1
+993,Coombs test positive,8
+994,Coordination abnormal,145
+995,Copper deficiency,1
+996,Cor pulmonale,5
+997,Corneal abrasion,6
+998,Corneal decompensation,1
+999,Corneal defect,1
+1000,Corneal degeneration,2
+1001,Corneal deposits,21
+1002,Corneal disorder,14
+1003,Corneal dystrophy,1
+1004,Corneal epithelium defect,8
+1005,Corneal erosion,24
+1006,Corneal infiltrates,8
+1007,Corneal irritation,2
+1008,Corneal lesion,12
+1009,Corneal oedema,29
+1010,Corneal opacity,28
+1011,Corneal perforation,8
+1012,Corneal pigmentation,3
+1013,Corneal scar,2
+1014,Corneal thinning,13
+1015,Coronary artery disease,52
+1016,Coronary artery insufficiency,7
+1017,Coronary artery occlusion,10
+1018,Coronary artery stenosis,1
+1019,Coronary artery thrombosis,12
+1020,Costochondritis,8
+1021,Costovertebral angle tenderness,1
+1022,Cough,712
+1023,Cough decreased,3
+1024,Cranial nerve disorder,1
+1025,Cranial nerve paralysis,11
+1026,Craniosynostosis,1
+1027,Creatinine renal clearance decreased,14
+1028,Crohn's disease,15
+1029,Croup infectious,1
+1030,Crying,22
+1031,Cryptococcal cutaneous infection,1
+1032,Cryptococcosis,8
+1033,Cryptorchism,3
+1034,Cryptosporidiosis infection,2
+1035,Crystal urine present,2
+1036,Crystalluria,27
+1037,Culture negative,4
+1038,Cushing's syndrome,31
+1039,Cushingoid,15
+1040,Cutaneous lupus erythematosus,9
+1041,Cutaneous sarcoidosis,1
+1042,Cutaneous vasculitis,29
+1043,Cutis laxa,2
+1044,Cyanopsia,2
+1045,Cyanosis,104
+1046,Cycloplegia,11
+1047,Cyclothymic disorder,1
+1048,Cyst,97
+1049,Cystitis,162
+1050,Cystitis haemorrhagic,20
+1051,Cystitis interstitial,2
+1052,Cystitis noninfective,155
+1053,Cystitis viral,1
+1054,Cystocele,1
+1055,Cystoid macular oedema,11
+1056,Cytarabine syndrome,1
+1057,Cytogenetic abnormality,1
+1058,Cytokine release syndrome,2
+1059,Cytomegalovirus chorioretinitis,3
+1060,Cytomegalovirus colitis,2
+1061,Cytomegalovirus gastritis,1
+1062,Cytomegalovirus hepatitis,1
+1063,Cytomegalovirus infection,10
+1064,Cytomegalovirus syndrome,1
+1065,Cytomegalovirus viraemia,2
+1066,Cytotoxic oedema,1
+1067,Dacryoadenitis acquired,1
+1068,Dacryocanaliculitis,1
+1069,Dacryocystitis,1
+1070,Dacryostenosis acquired,3
+1071,Dactylitis,1
+1072,Dandruff,5
+1073,Dark circles under eyes,1
+1074,Deafness,252
+1075,Deafness bilateral,1
+1076,Deafness neurosensory,11
+1077,Deafness permanent,5
+1078,Deafness transitory,6
+1079,Deafness unilateral,2
+1080,Death,16
+1081,Death neonatal,3
+1082,Decreased appetite,955
+1083,Decreased immune responsiveness,1
+1084,Decreased interest,2
+1085,Decreased vibratory sense,2
+1086,Decubitus ulcer,11
+1087,Deep vein thrombosis,102
+1088,Defaecation urgency,9
+1089,Defect conduction intraventricular,3
+1090,Deficiency anaemia,1
+1091,Deficiency of bile secretion,1
+1092,Dehydration,257
+1093,Delayed delivery,1
+1094,Delayed puberty,2
+1095,Delayed recovery from anaesthesia,1
+1096,Delirium,118
+1097,Delirium tremens,1
+1098,Delusion,99
+1099,Delusional disorders,2
+1100,Delusional perception,4
+1101,Dementia,54
+1102,Dementia Alzheimer's type,4
+1103,Dementia with Lewy bodies,1
+1104,Demyelinating polyneuropathy,2
+1105,Demyelination,4
+1106,Dental caries,51
+1107,Dental discomfort,3
+1108,Dentofacial anomaly,1
+1109,Dependence,37
+1110,Depersonalisation,90
+1111,Deposit eye,2
+1112,Depressed level of consciousness,186
+1113,Depressed mood,54
+1114,Depression,367
+1115,Depression suicidal,5
+1116,Depressive symptom,20
+1117,Derealisation,12
+1118,Dermal cyst,10
+1119,Dermatillomania,1
+1120,Dermatitis,1433
+1121,Dermatitis acneiform,50
+1122,Dermatitis atopic,115
+1123,Dermatitis bullous,255
+1124,Dermatitis contact,188
+1125,Dermatitis diaper,9
+1126,Dermatitis exfoliative,222
+1127,Dermatitis infected,8
+1128,Dermatitis psoriasiform,15
+1129,Dermatomyositis,10
+1130,Dermatophytosis,1
+1131,Dermoid cyst,6
+1132,Detachment of retinal pigment epithelium,1
+1133,Developmental coordination disorder,1
+1134,Developmental delay,49
+1135,Developmental glaucoma,4
+1136,Developmental hip dysplasia,1
+1137,Device breakage,3
+1138,Device capturing issue,7
+1139,Device dislocation,3
+1140,Device expulsion,4
+1141,Device interaction,1
+1142,Device malfunction,4
+1143,Device occlusion,3
+1144,Device related infection,25
+1145,Device related sepsis,1
+1146,Diabetes insipidus,9
+1147,Diabetes mellitus,247
+1148,Diabetes mellitus inadequate control,2
+1149,Diabetic autonomic neuropathy,1
+1150,Diabetic coma,7
+1151,Diabetic complication,2
+1152,Diabetic foot infection,1
+1153,Diabetic hyperglycaemic coma,7
+1154,Diabetic hyperosmolar coma,5
+1155,Diabetic ketoacidosis,13
+1156,Diabetic nephropathy,2
+1157,Diabetic neuropathy,5
+1158,Diabetic retinopathy,8
+1159,Diabetic vascular disorder,1
+1160,Diaphragmatic hernia,4
+1161,Diarrhoea,1148
+1162,Diarrhoea haemorrhagic,28
+1163,Diastolic dysfunction,3
+1164,Diastolic hypertension,4
+1165,Diet refusal,1
+1166,Diffuse alopecia,1
+1167,Diffuse large B-cell lymphoma,3
+1168,Dilatation atrial,1
+1169,Dilatation ventricular,1
+1170,Diplegia,20
+1171,Diplopia,224
+1172,Disability,15
+1173,Discomfort,682
+1174,Disease progression,27
+1175,Disease recurrence,1
+1176,Disinhibition,10
+1177,Disorientation,183
+1178,Disseminated intravascular coagulation,50
+1179,Disseminated tuberculosis,1
+1180,Dissociation,14
+1181,Dissociative disorder,1
+1182,Distractibility,1
+1183,Disturbance in attention,158
+1184,Disturbance in sexual arousal,303
+1185,Diverticular perforation,1
+1186,Diverticulitis,35
+1187,Diverticulum,9
+1188,Diverticulum intestinal,2
+1189,Dizziness,1758
+1190,Dizziness exertional,1
+1191,Dizziness postural,40
+1192,Dreamy state,1
+1193,Drooling,18
+1194,Drug abuse,32
+1195,Drug administration error,2
+1196,Drug dependence,44
+1197,Drug effect decreased,3
+1198,Drug effect increased,6
+1199,Drug effect prolonged,2
+1200,Drug eruption,86
+1201,Drug hypersensitivity,48
+1202,Drug ineffective,16
+1203,Drug interaction,140
+1204,Drug intolerance,10
+1205,Drug level changed,1
+1206,Drug level decreased,4
+1207,Drug level increased,12
+1208,Drug reaction with eosinophilia and systemic symptoms,17
+1209,Drug screen positive,1
+1210,Drug tolerance,16
+1211,Drug tolerance decreased,5
+1212,Drug withdrawal convulsions,5
+1213,Drug withdrawal syndrome,66
+1214,Drug withdrawal syndrome neonatal,12
+1215,Drug-induced liver injury,12
+1216,Dry eye,186
+1217,Dry mouth,597
+1218,Dry skin,279
+1219,Dry throat,51
+1220,Duodenal perforation,2
+1221,Duodenal ulcer,58
+1222,Duodenal ulcer haemorrhage,5
+1223,Duodenal ulcer perforation,6
+1224,Duodenitis,34
+1225,Duodenitis haemorrhagic,5
+1226,Dupuytren's contracture,2
+1227,Dwarfism,2
+1228,Dysacusis,2
+1229,Dysaesthesia,53
+1230,Dysaesthesia pharynx,3
+1231,Dysarthria,156
+1232,Dyschezia,6
+1233,Dysentery,4
+1234,Dysgeusia,557
+1235,Dysgraphia,5
+1236,Dyshidrotic eczema,2
+1237,Dyskinesia,198
+1238,Dyslexia,2
+1239,Dyslipidaemia,18
+1240,Dysmenorrhoea,148
+1241,Dysmorphism,1
+1242,Dyspareunia,17
+1243,Dyspepsia,890
+1244,Dyspeptic signs and symptoms,12
+1245,Dysphagia,282
+1246,Dysphemia,8
+1247,Dysphonia,146
+1248,Dysphoria,51
+1249,Dysplasia,6
+1250,Dyspnoea,763
+1251,Dyspnoea at rest,1
+1252,Dyspnoea exertional,36
+1253,Dyspnoea paroxysmal nocturnal,4
+1254,Dyssomnia,2
+1255,Dysstasia,2
+1256,Dysthymic disorder,13
+1257,Dystonia,17
+1258,Dystrophic calcification,1
+1259,Dysuria,344
+1260,ECG signs of myocardial ischaemia,1
+1261,Ear and labyrinth disorders,227
+1262,Ear canal erythema,2
+1263,Ear congestion,5
+1264,Ear discomfort,14
+1265,Ear disorder,68
+1266,Ear disorders NEC,1
+1267,Ear haemorrhage,5
+1268,Ear infection,56
+1269,Ear malformation,3
+1270,Ear pain,189
+1271,Ear pruritus,2
+1272,Early menarche,1
+1273,Early satiety,5
+1274,Eating disorder,5
+1275,Ecchymosis,192
+1276,Echocardiogram abnormal,2
+1277,Echolalia,2
+1278,Eclampsia,2
+1279,Ectopic ACTH syndrome,1
+1280,Ectopic pregnancy,11
+1281,Ectropion,4
+1282,Ectropion of cervix,9
+1283,Eczema,204
+1284,Eczema eyelids,3
+1285,Eczema herpeticum,4
+1286,Eczema infected,2
+1287,Effusion,11
+1288,Ejaculation delayed,18
+1289,Ejaculation disorder,48
+1290,Ejaculation failure,21
+1291,Ejection fraction decreased,18
+1292,Elastosis perforans,2
+1293,Electric shock,10
+1294,Electrocardiogram PR prolongation,11
+1295,Electrocardiogram PR shortened,2
+1296,Electrocardiogram QRS complex,17
+1297,Electrocardiogram QRS complex abnormal,6
+1298,Electrocardiogram QRS complex prolonged,1
+1299,Electrocardiogram QT interval,2
+1300,Electrocardiogram QT interval abnormal,1
+1301,Electrocardiogram QT prolonged,101
+1302,Electrocardiogram QT shortened,1
+1303,Electrocardiogram ST segment,9
+1304,Electrocardiogram ST segment abnormal,5
+1305,Electrocardiogram ST segment depression,23
+1306,Electrocardiogram ST segment elevation,8
+1307,Electrocardiogram ST-T change,2
+1308,Electrocardiogram ST-T segment abnormal,1
+1309,Electrocardiogram T wave abnormal,6
+1310,Electrocardiogram T wave amplitude decreased,4
+1311,Electrocardiogram T wave inversion,19
+1312,Electrocardiogram U-wave abnormality,9
+1313,Electrocardiogram abnormal,90
+1314,Electrocardiogram change,34
+1315,Electrocardiogram repolarisation abnormality,1
+1316,Electroencephalogram abnormal,20
+1317,Electrolyte depletion,1
+1318,Electrolyte imbalance,54
+1319,Elevated mood,6
+1320,Embolic stroke,2
+1321,Embolism,126
+1322,Embolism arterial,5
+1323,Embolism venous,85
+1324,Emotional disorder,24
+1325,Emotional distress,46
+1326,Emotional poverty,2
+1327,Emphysema,13
+1328,Emprosthotonus,2
+1329,Enanthema,3
+1330,Encephalitis,15
+1331,Encephalitis cytomegalovirus,1
+1332,Encephalitis viral,2
+1333,Encephalocele,2
+1334,Encephalopathy,87
+1335,End stage AIDS,1
+1336,Endocardial fibrosis,1
+1337,Endocarditis,6
+1338,Endocrine disorder,134
+1339,Endocrine neoplasms malignant and unspecified,1
+1340,Endometrial adenocarcinoma,1
+1341,Endometrial cancer,28
+1342,Endometrial disorder,8
+1343,Endometrial hyperplasia,14
+1344,Endometrial hypertrophy,6
+1345,Endometrial neoplasm,1
+1346,Endometriosis,15
+1347,Endometritis,5
+1348,Endophthalmitis,64
+1349,Endotracheal intubation complication,2
+1350,Energy increased,7
+1351,Enlarged clitoris,9
+1352,Enophthalmos,1
+1353,Enteritis,39
+1354,Enterobacter sepsis,1
+1355,Enterobiasis,1
+1356,Enterococcal bacteraemia,1
+1357,Enterococcal infection,1
+1358,Enterocolitis,39
+1359,Enterocolitis haemorrhagic,10
+1360,Enterocolitis infectious,1
+1361,Enterocutaneous fistula,1
+1362,Enuresis,30
+1363,Enzyme abnormality,8
+1364,Enzyme induction,4
+1365,Eosinopenia,1
+1366,Eosinophil count abnormal,1
+1367,Eosinophil count increased,20
+1368,Eosinophilia,319
+1369,Eosinophilic cystitis,1
+1370,Eosinophilic myocarditis,5
+1371,Eosinophilic pneumonia,18
+1372,Eosinophilic pustular folliculitis,1
+1373,Ephelides,2
+1374,Epicondylitis,3
+1375,Epidermal and dermal conditions,1
+1376,Epidermal growth factor receptor decreased,1
+1377,Epidermal naevus,1
+1378,Epidermal necrosis,11
+1379,Epidermolysis,3
+1380,Epidermolysis bullosa,2
+1381,Epididymal tenderness,1
+1382,Epididymitis,37
+1383,Epidural haemorrhage,5
+1384,Epidural lipomatosis,3
+1385,Epigastric discomfort,65
+1386,Epiglottitis,1
+1387,Epilepsy,53
+1388,Epiphyses premature fusion,3
+1389,Epiphysiolysis,1
+1390,Episcleritis,5
+1391,Epistaxis,377
+1392,Epstein-Barr virus infection,4
+1393,Erectile dysfunction,309
+1394,Erection increased,10
+1395,Ergot poisoning,1
+1396,Erosive oesophagitis,4
+1397,Eructation,161
+1398,Erysipelas,4
+1399,Erythema,606
+1400,Erythema annulare,1
+1401,Erythema infectiosum,1
+1402,Erythema multiforme,641
+1403,Erythema nodosum,58
+1404,Erythema of eyelid,19
+1405,Erythrasma,1
+1406,Erythrodermic psoriasis,3
+1407,Erythroleukaemia,1
+1408,Erythromelalgia,5
+1409,Erythropenia,6
+1410,Erythropoiesis abnormal,4
+1411,Erythropsia,1
+1412,Erythrosis,2
+1413,Eschar,4
+1414,Escherichia bacteraemia,1
+1415,Escherichia sepsis,2
+1416,Essential hypertension,8
+1417,Essential thrombocythaemia,1
+1418,Essential tremor,1
+1419,Euphoric mood,178
+1420,Eustachian tube disorder,3
+1421,Evans syndrome,1
+1422,Excessive granulation tissue,1
+1423,Excoriation,39
+1424,Exfoliative conditions,2
+1425,Exfoliative rash,20
+1426,Exomphalos,5
+1427,Exophthalmos,30
+1428,Exostosis,13
+1429,Exposure to toxic agent,1
+1430,Expressive language disorder,2
+1431,Extensor plantar response,4
+1432,External ear disorder,1
+1433,Extradural abscess,2
+1434,"Extranodal NK/T-cell lymphoma, nasal type",1
+1435,Extrapyramidal disorder,131
+1436,Extraskeletal ossification,1
+1437,Extrasystoles,120
+1438,Extravasation,113
+1439,Extremity contracture,1
+1440,Extremity necrosis,1
+1441,Eye allergy,4
+1442,Eye burns,5
+1443,Eye discharge,25
+1444,Eye disorder,440
+1445,Eye haemorrhage,63
+1446,Eye infection,34
+1447,Eye infection viral,1
+1448,Eye injury,3
+1449,Eye irritation,138
+1450,Eye movement disorder,10
+1451,Eye naevus,1
+1452,Eye oedema,20
+1453,Eye pain,213
+1454,Eye penetration,3
+1455,Eye pruritus,57
+1456,Eye swelling,39
+1457,Eye ulcer,1
+1458,Eyelash discolouration,4
+1459,Eyelash hyperpigmentation,2
+1460,Eyelash thickening,2
+1461,Eyelid bleeding,1
+1462,Eyelid disorder,13
+1463,Eyelid exfoliation,1
+1464,Eyelid function disorder,1
+1465,Eyelid infection,1
+1466,Eyelid irritation,9
+1467,Eyelid margin crusting,10
+1468,Eyelid oedema,64
+1469,Eyelid pain,3
+1470,Eyelid ptosis,10
+1471,Eyelid retraction,3
+1472,Eyelids pruritus,11
+1473,Face injury,2
+1474,Face oedema,255
+1475,Facial bones fracture,2
+1476,Facial neuralgia,1
+1477,Facial pain,16
+1478,Facial paresis,7
+1479,Facial spasm,3
+1480,Facial wasting,2
+1481,Factor I deficiency,1
+1482,Factor II deficiency,6
+1483,Factor VIII deficiency,3
+1484,Factor XI deficiency,1
+1485,Faecal incontinence,69
+1486,Faecalith,28
+1487,Faecaloma,28
+1488,Faeces discoloured,16
+1489,Faeces hard,10
+1490,Failed induction of labour,1
+1491,Failure to thrive,3
+1492,Fall,7
+1493,Fallopian tube cyst,1
+1494,Fallot's tetralogy,1
+1495,Familial tremor,1
+1496,Family stress,2
+1497,Fanconi syndrome,11
+1498,Fanconi syndrome acquired,3
+1499,Fasciitis,4
+1500,Fasting,14
+1501,Fat embolism,11
+1502,Fat intolerance,1
+1503,Fat necrosis,3
+1504,Fat redistribution,18
+1505,Fat tissue increased,4
+1506,Fatal outcomes,85
+1507,Fatigue,798
+1508,Fear,3
+1509,Febrile bone marrow aplasia,1
+1510,Febrile convulsion,2
+1511,Febrile disorders,3
+1512,Febrile neutropenia,92
+1513,Feeling abnormal,1133
+1514,Feeling cold,33
+1515,Feeling drunk,16
+1516,Feeling hot,139
+1517,Feeling jittery,45
+1518,Feeling of body temperature change,10
+1519,Feeling of despair,2
+1520,Feeling of relaxation,2
+1521,Feelings of worthlessness,1
+1522,Female orgasmic disorder,1
+1523,Female reproductive neoplasm,1
+1524,Female sexual arousal disorder,2
+1525,Female sexual dysfunction,11
+1526,Feminisation acquired,3
+1527,Femoral neck fracture,3
+1528,Femur fracture,8
+1529,Fever neonatal,1
+1530,Fibroadenoma of breast,13
+1531,Fibrocystic breast disease,22
+1532,Fibroma,1
+1533,Fibromyalgia,10
+1534,Fibrosis,32
+1535,Finger deformity,1
+1536,Fistula,11
+1537,Fixed eruption,3
+1538,Flank pain,51
+1539,Flat affect,94
+1540,Flatulence,524
+1541,Flight of ideas,1
+1542,Floppy infant,1
+1543,Floppy iris syndrome,8
+1544,Fluid imbalance,5
+1545,Fluid intake increased,2
+1546,Fluid intake reduced,1
+1547,Fluid overload,60
+1548,Fluid retention,193
+1549,Fluoride increased,1
+1550,Fluorosis,2
+1551,Flushing,463
+1552,Focal segmental glomerulosclerosis,2
+1553,Foetal acidosis,2
+1554,Foetal alcohol syndrome,1
+1555,Foetal anticonvulsant syndrome,1
+1556,Foetal chromosome abnormality,1
+1557,Foetal damage,2
+1558,Foetal death,12
+1559,Foetal disorder,5
+1560,Foetal distress syndrome,6
+1561,Foetal heart rate,2
+1562,Foetor hepaticus,75
+1563,Folate deficiency,8
+1564,Folliculitis,102
+1565,Fontanelle bulging,10
+1566,Food allergy,7
+1567,Food aversion,1
+1568,Food craving,1
+1569,Food interaction,2
+1570,Food intolerance,1
+1571,Food poisoning,7
+1572,Foot and mouth disease,2
+1573,Foot fracture,3
+1574,Forced expiratory volume decreased,3
+1575,Foreign body,1
+1576,Foreign body in eye,1
+1577,Foreign body sensation in eyes,14
+1578,Formication,5
+1579,Fraction of inspired oxygen,3
+1580,Fracture,81
+1581,Free prostate-specific antigen increased,3
+1582,Freezing phenomenon,1
+1583,Frequent bowel movements,23
+1584,Fructose intolerance,1
+1585,Frustration,1
+1586,Functional gastrointestinal disorder,26
+1587,Fungaemia,6
+1588,Fungal infection,124
+1589,Fungal peritonitis,1
+1590,Fungal sepsis,1
+1591,Fungal skin infection,54
+1592,Fungal test positive,1
+1593,Furuncle,64
+1594,Gait disturbance,153
+1595,Galactorrhoea,97
+1596,Gallbladder cancer,1
+1597,Gallbladder disorder,22
+1598,Gallbladder polyp,1
+1599,Gamma-glutamyltransferase increased,124
+1600,Gangrene,27
+1601,Gas gangrene,1
+1602,Gastric atony,8
+1603,Gastric cancer,1
+1604,Gastric dilatation,3
+1605,Gastric disorder,9
+1606,Gastric haemorrhage,14
+1607,Gastric pH decreased,12
+1608,Gastric perforation,2
+1609,Gastric polyps,7
+1610,Gastric ulcer,73
+1611,Gastric ulcer haemorrhage,8
+1612,Gastric ulcer helicobacter,1
+1613,Gastric ulcer perforation,2
+1614,Gastrinoma,1
+1615,Gastritis,274
+1616,Gastritis erosive,2
+1617,Gastritis haemorrhagic,9
+1618,Gastritis viral,2
+1619,Gastroduodenitis,2
+1620,Gastroenteritis,207
+1621,Gastroenteritis adenovirus,1
+1622,Gastroenteritis bacterial,2
+1623,Gastroenteritis salmonella,1
+1624,Gastroenteritis yersinia,1
+1625,Gastrointestinal candidiasis,10
+1626,Gastrointestinal carcinoma,11
+1627,Gastrointestinal disorder,928
+1628,Gastrointestinal fistula,5
+1629,Gastrointestinal fungal infection,1
+1630,Gastrointestinal haemorrhage,228
+1631,Gastrointestinal hypermotility,1
+1632,Gastrointestinal hypomotility,3
+1633,Gastrointestinal infection,14
+1634,Gastrointestinal inflammation,6
+1635,Gastrointestinal inflammatory conditions,2
+1636,Gastrointestinal malformation,3
+1637,Gastrointestinal motility disorder,5
+1638,Gastrointestinal necrosis,10
+1639,Gastrointestinal neoplasm,2
+1640,Gastrointestinal obstruction,8
+1641,Gastrointestinal pain,877
+1642,Gastrointestinal perforation,30
+1643,Gastrointestinal signs and symptoms,6
+1644,Gastrointestinal signs and symptoms NEC,1
+1645,Gastrointestinal sounds abnormal,12
+1646,Gastrointestinal stoma complication,2
+1647,Gastrointestinal stromal tumour,2
+1648,Gastrointestinal toxicity,17
+1649,Gastrointestinal tract irritation,46
+1650,Gastrointestinal ulcer,14
+1651,Gastrointestinal ulcer haemorrhage,8
+1652,Gastrointestinal ulcer perforation,4
+1653,Gastrooesophageal reflux disease,156
+1654,Gastrooesophageal sphincter insufficiency,1
+1655,Gastrooesophagitis,3
+1656,Gaze palsy,1
+1657,General disorders and administration site conditions,5
+1658,General physical health deterioration,6
+1659,General symptom,4
+1660,Generalised anxiety disorder,1
+1661,Generalised erythema,7
+1662,Generalised oedema,79
+1663,Genetic polymorphism,2
+1664,Genital burning sensation,1
+1665,Genital candidiasis,24
+1666,Genital discharge,7
+1667,Genital discomfort,1
+1668,Genital disorder female,5
+1669,Genital disorder male,2
+1670,Genital haemorrhage,5
+1671,Genital herpes,4
+1672,Genital hypoaesthesia,1
+1673,Genital infection,4
+1674,Genital infection fungal,3
+1675,Genital infection male,1
+1676,Genital injury,1
+1677,Genital lesion,1
+1678,Genital pain,5
+1679,Genital rash,3
+1680,Genital swelling,2
+1681,Genital ulceration,4
+1682,Genitourinary chlamydia infection,1
+1683,Genitourinary tract infection,1
+1684,Genitourinary tract neoplasm,4
+1685,Gestational diabetes,2
+1686,Gestational hypertension,1
+1687,Gilbert's syndrome,2
+1688,Gingival abscess,1
+1689,Gingival bleeding,80
+1690,Gingival blister,1
+1691,Gingival disorder,7
+1692,Gingival erythema,1
+1693,Gingival hyperplasia,29
+1694,Gingival hypertrophy,6
+1695,Gingival infection,4
+1696,Gingival oedema,1
+1697,Gingival pain,29
+1698,Gingival recession,2
+1699,Gingival swelling,3
+1700,Gingival ulceration,1
+1701,Gingivitis,108
+1702,Glabellar reflex abnormal,2
+1703,Glaucoma,118
+1704,Glioblastoma,1
+1705,Glioblastoma multiforme,2
+1706,Glioma,2
+1707,Globulins decreased,1
+1708,Glomerular filtration rate decreased,3
+1709,Glomerulonephritis,18
+1710,Glomerulonephritis membranoproliferative,1
+1711,Glomerulonephritis membranous,4
+1712,Glomerulonephritis minimal lesion,2
+1713,Glomerulonephritis rapidly progressive,1
+1714,Glomerulonephropathy,1
+1715,Glossitis,143
+1716,Glossodynia,45
+1717,Glucocorticoids decreased,1
+1718,Glucose tolerance decreased,21
+1719,Glucose tolerance impaired,42
+1720,Glucose-6-phosphate dehydrogenase deficiency,12
+1721,Glycosuria,130
+1722,Glycosylated haemoglobin decreased,2
+1723,Glycosylated haemoglobin increased,6
+1724,Goitre,54
+1725,Gonorrhoea,1
+1726,Goodpasture's syndrome,1
+1727,Gout,150
+1728,Gouty arthritis,5
+1729,Gouty tophus,1
+1730,Graft complication,3
+1731,Graft dysfunction,4
+1732,Graft loss,5
+1733,Graft thrombosis,1
+1734,Graft versus host disease,8
+1735,Grand mal convulsion,60
+1736,Granulocytosis,5
+1737,Granuloma,11
+1738,Granuloma annulare,1
+1739,Granuloma skin,1
+1740,Granulomatosis with polyangiitis,2
+1741,Granulomatous liver disease,14
+1742,Gravitational oedema,25
+1743,Grey syndrome neonatal,1
+1744,Grimacing,4
+1745,Groin pain,14
+1746,Growth accelerated,4
+1747,Growth of eyelashes,3
+1748,Growth retardation,32
+1749,Guillain-Barre syndrome,22
+1750,Gynaecomastia,185
+1751,HELLP syndrome,1
+1752,HIV associated nephropathy,1
+1753,Haemangioma,14
+1754,Haemangioma congenital,1
+1755,Haemarthrosis,9
+1756,Haematemesis,105
+1757,Haematochezia,53
+1758,Haematocrit decreased,56
+1759,Haematocrit increased,11
+1760,Haematological malignancy,6
+1761,Haematology test abnormal,1
+1762,Haematoma,109
+1763,Haematospermia,6
+1764,Haematotoxicity,2
+1765,Haematuria,375
+1766,Haemobilia,1
+1767,Haemochromatosis,2
+1768,Haemodynamic instability,3
+1769,Haemoglobin,410
+1770,Haemoglobin abnormal,3
+1771,Haemoglobin decreased,113
+1772,Haemoglobin increased,13
+1773,Haemoglobin normal,1
+1774,Haemoglobinaemia,4
+1775,Haemoglobinuria,9
+1776,Haemolysis,25
+1777,Haemolytic anaemia,225
+1778,Haemolytic uraemic syndrome,24
+1779,Haemophilia,3
+1780,Haemoptysis,119
+1781,Haemorrhage,426
+1782,Haemorrhage in pregnancy,2
+1783,Haemorrhage intracranial,61
+1784,Haemorrhage subcutaneous,4
+1785,Haemorrhage urinary tract,9
+1786,Haemorrhagic anaemia,4
+1787,Haemorrhagic disorder,25
+1788,Haemorrhagic erosive gastritis,2
+1789,Haemorrhagic ovarian cyst,1
+1790,Haemorrhagic stroke,19
+1791,Haemorrhagic urticaria,2
+1792,Haemorrhoidal haemorrhage,15
+1793,Haemorrhoids,88
+1794,Haemothorax,5
+1795,Hair colour changes,19
+1796,Hair disorder,23
+1797,Hair growth abnormal,15
+1798,Hair texture abnormal,14
+1799,Hallucination,368
+1800,"Hallucination, auditory",17
+1801,"Hallucination, tactile",1
+1802,"Hallucination, visual",28
+1803,"Hallucinations, mixed",9
+1804,Halo vision,6
+1805,Hamartoma,1
+1806,Hand and foot syndrome secondary to sickle cell anaemia,4
+1807,Hand dermatitis,2
+1808,Hand fracture,1
+1809,Hangover,22
+1810,Haptoglobin increased,1
+1811,Head discomfort,4
+1812,Head injury,12
+1813,Head lag abnormal,1
+1814,Head titubation,2
+1815,Headache,1219
+1816,Hearing impaired,172
+1817,Heart alternation,1
+1818,Heart disease congenital,10
+1819,Heart failure signs and symptoms,4
+1820,Heart rate abnormal,1
+1821,Heart rate irregular,29
+1822,Heart sounds abnormal,9
+1823,Heat exhaustion,4
+1824,Heat stroke,17
+1825,Helicobacter gastritis,1
+1826,Helicobacter infection,2
+1827,Hemianopia,9
+1828,Hemiparesis,22
+1829,Hemiplegia,38
+1830,Henoch-Schonlein purpura,32
+1831,Heparin-induced thrombocytopenia,3
+1832,Hepatic adenoma,4
+1833,Hepatic angiosarcoma,1
+1834,Hepatic artery thrombosis,3
+1835,Hepatic atrophy,1
+1836,Hepatic cancer,24
+1837,Hepatic cancer metastatic,8
+1838,Hepatic cirrhosis,19
+1839,Hepatic congestion,2
+1840,Hepatic cyst,1
+1841,Hepatic encephalopathy,15
+1842,Hepatic enzyme abnormal,4
+1843,Hepatic enzyme decreased,1
+1844,Hepatic enzyme increased,142
+1845,Hepatic failure,220
+1846,Hepatic fibrosis,5
+1847,Hepatic function abnormal,195
+1848,Hepatic haemorrhage,1
+1849,Hepatic infiltration eosinophilic,1
+1850,Hepatic necrosis,80
+1851,Hepatic neoplasm,15
+1852,Hepatic pain,8
+1853,Hepatic steatosis,45
+1854,Hepatic vein occlusion,2
+1855,Hepatic vein thrombosis,1
+1856,Hepatitis,398
+1857,Hepatitis A,5
+1858,Hepatitis B,21
+1859,Hepatitis B e antigen positive,2
+1860,Hepatitis B surface antigen positive,1
+1861,Hepatitis C,17
+1862,Hepatitis C antibody positive,1
+1863,Hepatitis F,1
+1864,Hepatitis acute,13
+1865,Hepatitis alcoholic,2
+1866,Hepatitis cholestatic,51
+1867,Hepatitis chronic active,7
+1868,Hepatitis fulminant,21
+1869,Hepatitis toxic,17
+1870,Hepatitis viral,11
+1871,Hepatobiliary disease,357
+1872,Hepatoblastoma,1
+1873,Hepatocellular carcinoma,20
+1874,Hepatocellular injury,165
+1875,Hepatomegaly,105
+1876,Hepatorenal syndrome,7
+1877,Hepatosplenic T-cell lymphoma,3
+1878,Hepatosplenomegaly,13
+1879,Hepatotoxicity,118
+1880,Hereditary angioedema,6
+1881,Hernia,54
+1882,Hernia congenital,2
+1883,Hernia pain,1
+1884,Herpangina,1
+1885,Herpes dermatitis,3
+1886,Herpes simplex,142
+1887,Herpes simplex encephalitis,1
+1888,Herpes simplex hepatitis,1
+1889,Herpes virus infection,34
+1890,Herpes zoster,123
+1891,Hiatus hernia,13
+1892,Hiccups,153
+1893,Hidradenitis,1
+1894,High density lipoprotein decreased,25
+1895,High density lipoprotein increased,3
+1896,High turnover osteopathy,1
+1897,Hip fracture,7
+1898,Hirsutism,89
+1899,Histiocytosis,1
+1900,Histiocytosis haematophagic,1
+1901,Histoplasmosis,2
+1902,Hodgkin's disease,8
+1903,Hodgkin's disease lymphocyte depletion type stage unspecified,8
+1904,Hodgkin's disease lymphocyte predominance type stage unspecified,8
+1905,Hoigne's syndrome,2
+1906,Homicidal ideation,10
+1907,Homocystinuria,1
+1908,Hordeolum,14
+1909,Hormone level abnormal,7
+1910,Hormone-dependent prostate cancer,1
+1911,Horner's syndrome,5
+1912,Hostility,68
+1913,Hot flush,236
+1914,House dust allergy,1
+1915,Human herpesvirus 6 infection,1
+1916,Humerus fracture,2
+1917,Hunger,11
+1918,Hydrocele,1
+1919,Hydrocephalus,15
+1920,Hydrometra,1
+1921,Hydronephrosis,19
+1922,Hydrops foetalis,1
+1923,Hydrothorax,1
+1924,Hydroureter,1
+1925,Hyperacusis,42
+1926,Hyperadrenocorticism,19
+1927,Hyperaemia,33
+1928,Hyperaesthesia,116
+1929,Hyperalbuminaemia,1
+1930,Hyperammonaemia,6
+1931,Hyperamylasaemia,6
+1932,Hyperbilirubinaemia,154
+1933,Hypercalcaemia,109
+1934,Hypercalcaemia of malignancy,1
+1935,Hypercalciuria,12
+1936,Hypercapnia,12
+1937,Hyperchloraemia,10
+1938,Hyperchlorhydria,11
+1939,Hypercholesterolaemia,145
+1940,Hypercoagulation,2
+1941,Hyperemesis gravidarum,1
+1942,Hyperfibrinogenaemia,1
+1943,Hypergammaglobulinaemia,1
+1944,Hyperglycaemia,356
+1945,Hyperhidrosis,820
+1946,Hyperinsulinism,6
+1947,Hyperkalaemia,170
+1948,Hyperkeratosis,33
+1949,Hyperkinesia,174
+1950,Hyperlactacidaemia,31
+1951,Hyperlipidaemia,97
+1952,Hypermagnesaemia,12
+1953,Hypermethioninaemia,1
+1954,Hypernatraemia,78
+1955,Hyperparathyroidism,10
+1956,Hyperparathyroidism primary,1
+1957,Hyperparathyroidism secondary,3
+1958,Hyperpathia,12
+1959,Hyperphagia,8
+1960,Hyperphosphataemia,36
+1961,Hyperplasia,12
+1962,Hyperprolactinaemia,28
+1963,Hyperproteinaemia,2
+1964,Hyperpyrexia,45
+1965,Hyperreflexia,59
+1966,Hypersensitivity,984
+1967,Hypersexuality,14
+1968,Hypersomnia,31
+1969,Hypersplenism,3
+1970,Hypertension,620
+1971,Hypertensive crisis,34
+1972,Hypertensive encephalopathy,1
+1973,Hypertensive nephropathy,2
+1974,Hyperthyroidism,53
+1975,Hypertonia,183
+1976,Hypertonic bladder,7
+1977,Hypertransaminasaemia,3
+1978,Hypertrichosis,58
+1979,Hypertriglyceridaemia,85
+1980,Hypertrophic cardiomyopathy,14
+1981,Hypertrophic osteoarthropathy,1
+1982,Hypertrophic scar,1
+1983,Hypertrophy,9
+1984,Hyperuricaemia,141
+1985,Hyperuricosuria,5
+1986,Hyperventilation,94
+1987,Hypervigilance,4
+1988,Hyperviscosity syndrome,1
+1989,Hypervitaminosis A,3
+1990,Hypervitaminosis D,1
+1991,Hyphaema,3
+1992,Hypnagogic hallucination,1
+1993,Hypnopompic hallucination,1
+1994,Hypoaesthesia,427
+1995,Hypoaesthesia eye,9
+1996,Hypoaesthesia oral,37
+1997,Hypoalbuminaemia,30
+1998,Hypoaldosteronism,1
+1999,Hypocalcaemia,141
+2000,Hypocalciuria,1
+2001,Hypocapnia,2
+2002,Hypochloraemia,13
+2003,Hypocholesterolaemia,6
+2004,Hypochondriasis,1
+2005,Hypochromasia,1
+2006,Hypochromic anaemia,50
+2007,Hypofibrinogenaemia,1
+2008,Hypogammaglobulinaemia,2
+2009,Hypogeusia,18
+2010,Hypoglycaemia,260
+2011,Hypoglycaemia neonatal,1
+2012,Hypoglycaemic coma,9
+2013,Hypoglycaemic seizure,2
+2014,Hypoglycaemic unconsciousness,1
+2015,Hypogonadism,14
+2016,Hypogonadism male,1
+2017,Hypohidrosis,17
+2018,Hypokalaemia,277
+2019,Hypokinesia,84
+2020,Hypolipidaemia,2
+2021,Hypomagnesaemia,96
+2022,Hypomania,34
+2023,Hypomenorrhoea,7
+2024,Hyponatraemia,243
+2025,Hypoparathyroidism,4
+2026,Hypoperfusion,2
+2027,Hypophagia,1
+2028,Hypophosphataemia,87
+2029,Hypophosphataemic rickets,1
+2030,Hypopituitarism,9
+2031,Hypoplastic anaemia,5
+2032,Hypopnoea,9
+2033,Hypoproteinaemia,35
+2034,Hypoprothrombinaemia,6
+2035,Hypopyon,1
+2036,Hyporeflexia,55
+2037,Hyposmia,4
+2038,Hyposthenuria,2
+2039,Hypotension,774
+2040,Hypothermia,68
+2041,Hypothrombinaemia,1
+2042,Hypothyroidism,95
+2043,Hypotonia,68
+2044,Hypotonia neonatal,1
+2045,Hypotonic-hyporesponsive episode,1
+2046,Hypotony of eye,3
+2047,Hypotrichosis,11
+2048,Hypouricaemia,6
+2049,Hypoventilation,43
+2050,Hypovitaminosis,8
+2051,Hypovolaemia,40
+2052,Hypovolaemic shock,6
+2053,Hypoxia,100
+2054,Hypoxic-ischaemic encephalopathy,2
+2055,IIIrd nerve paralysis,16
+2056,Ichthyosis,10
+2057,Ichthyosis acquired,10
+2058,Idiopathic pneumonia syndrome,2
+2059,Idiopathic pulmonary fibrosis,7
+2060,Idiopathic thrombocytopenic purpura,16
+2061,Idiosyncratic drug reaction,2
+2062,Ileal perforation,1
+2063,Ileal ulcer,1
+2064,Ileitis,6
+2065,Ileus,105
+2066,Ileus paralytic,53
+2067,Ill-defined disorder,516
+2068,Illusion,17
+2069,Immediate post-injection reaction,1
+2070,Immobile,7
+2071,Immune system disorder,467
+2072,Immune-mediated necrotising myopathy,8
+2073,Immunodeficiency,16
+2074,Immunoglobulins decreased,2
+2075,Immunoglobulins increased,5
+2076,Immunology test,3
+2077,Immunosuppressant drug level increased,1
+2078,Immunosuppression,2
+2079,Impaired fasting glucose,1
+2080,Impaired gastric emptying,23
+2081,Impaired healing,66
+2082,Impatience,1
+2083,Imperforate hymen,2
+2084,Impetigo,11
+2085,Implant site pain,1
+2086,Implant site reaction,3
+2087,Impulse-control disorder,10
+2088,Inappropriate affect,1
+2089,Inappropriate antidiuretic hormone secretion,74
+2090,Incision site complication,4
+2091,Incision site haematoma,1
+2092,Incision site haemorrhage,3
+2093,Incision site oedema,2
+2094,Incision site pain,1
+2095,Incisional hernia,3
+2096,Incoherent,2
+2097,Incomplete precocious puberty,1
+2098,Incontinence,47
+2099,Increased appetite,235
+2100,Increased bronchial secretion,34
+2101,Increased insulin requirement,16
+2102,Increased tendency to bruise,20
+2103,Increased upper airway secretion,6
+2104,Increased viscosity of bronchial secretion,1
+2105,Induration,65
+2106,Infarction,36
+2107,Infected bites,1
+2108,Infected cyst,1
+2109,Infection,657
+2110,Infection parasitic,9
+2111,Infection reactivation,1
+2112,Infection susceptibility increased,5
+2113,Infectious mononucleosis,4
+2114,Infective myositis,1
+2115,Infective tenosynovitis,1
+2116,Inferior vena cava syndrome,1
+2117,Infertility,25
+2118,Infertility female,6
+2119,Infertility male,9
+2120,Infestation,367
+2121,Inflammation,166
+2122,Inflammatory bowel disease,12
+2123,Influenza,302
+2124,Influenza like illness,202
+2125,Influenza viral infections,1
+2126,Infrequent bowel movements,1
+2127,Infusion related reaction,10
+2128,Infusion site erythema,11
+2129,Infusion site extravasation,4
+2130,Infusion site hypersensitivity,1
+2131,Infusion site induration,5
+2132,Infusion site infection,1
+2133,Infusion site inflammation,4
+2134,Infusion site irritation,2
+2135,Infusion site oedema,1
+2136,Infusion site pain,24
+2137,Infusion site paraesthesia,1
+2138,Infusion site phlebitis,6
+2139,Infusion site pruritus,5
+2140,Infusion site rash,4
+2141,Infusion site reaction,17
+2142,Infusion site reactions,25
+2143,Infusion site swelling,4
+2144,Infusion site thrombosis,3
+2145,Infusion site urticaria,1
+2146,Infusion site warmth,1
+2147,Ingrowing nail,6
+2148,Ingrown hair,1
+2149,Inguinal hernia,13
+2150,Initial insomnia,14
+2151,Injection site abscess,8
+2152,Injection site abscess sterile,1
+2153,Injection site atrophy,3
+2154,Injection site bruising,11
+2155,Injection site cellulitis,3
+2156,Injection site coldness,7
+2157,Injection site cyst,1
+2158,Injection site dermatitis,9
+2159,Injection site discolouration,4
+2160,Injection site discomfort,7
+2161,Injection site dryness,1
+2162,Injection site erythema,31
+2163,Injection site exfoliation,2
+2164,Injection site extravasation,9
+2165,Injection site fibrosis,3
+2166,Injection site granuloma,2
+2167,Injection site haematoma,16
+2168,Injection site haemorrhage,48
+2169,Injection site hypersensitivity,7
+2170,Injection site hypertrophy,3
+2171,Injection site induration,15
+2172,Injection site infection,11
+2173,Injection site inflammation,51
+2174,Injection site injury,1
+2175,Injection site irritation,19
+2176,Injection site joint pain,1
+2177,Injection site mass,8
+2178,Injection site necrosis,9
+2179,Injection site nodule,3
+2180,Injection site pain,166
+2181,Injection site pallor,1
+2182,Injection site paraesthesia,1
+2183,Injection site phlebitis,9
+2184,Injection site pruritus,15
+2185,Injection site reaction,210
+2186,Injection site swelling,35
+2187,Injection site thrombosis,7
+2188,Injection site ulcer,1
+2189,Injection site urticaria,8
+2190,Injection site vesicles,2
+2191,Injection site warmth,3
+2192,Injury,237
+2193,Injury associated with device,3
+2194,Inner ear disorder,12
+2195,Insomnia,735
+2196,Instillation site irritation,2
+2197,Instillation site pain,47
+2198,Insulin C-peptide decreased,1
+2199,Insulin C-peptide increased,1
+2200,Insulin autoimmune syndrome,1
+2201,Insulin resistance,15
+2202,Insulinoma,1
+2203,Intentional drug misuse,2
+2204,Intentional self-injury,8
+2205,Intermittent claudication,41
+2206,Intermittent explosive disorder,1
+2207,International normalised ratio abnormal,4
+2208,International normalised ratio decreased,2
+2209,International normalised ratio increased,19
+2210,Interstitial lung disease,130
+2211,Intertrigo,2
+2212,Intertrigo candida,1
+2213,Intervertebral disc degeneration,1
+2214,Intervertebral disc disorder,4
+2215,Intervertebral disc protrusion,4
+2216,Intervertebral discitis,1
+2217,Intestinal diaphragm disease,1
+2218,Intestinal haemorrhage,4
+2219,Intestinal infarction,7
+2220,Intestinal infections,2
+2221,Intestinal ischaemia,7
+2222,Intestinal mass,1
+2223,Intestinal obstruction,94
+2224,Intestinal perforation,40
+2225,Intestinal stenosis,2
+2226,Intestinal ulcer,12
+2227,Intra-abdominal haematoma,1
+2228,Intra-abdominal haemorrhage,3
+2229,Intracardiac thrombus,1
+2230,Intracranial aneurysm,3
+2231,Intracranial pressure increased,63
+2232,Intracranial venous sinus thrombosis,1
+2233,Intranasal hypoaesthesia,1
+2234,Intraocular pressure increased,68
+2235,Intraventricular haemorrhage,1
+2236,Intussusception,3
+2237,Iridocyclitis,20
+2238,Iris adhesions,3
+2239,Iris disorder,2
+2240,Iris hyperpigmentation,6
+2241,Iritis,47
+2242,Iron binding capacity total,1
+2243,Iron deficiency,6
+2244,Iron deficiency anaemia,23
+2245,Iron overload,3
+2246,Irritability,236
+2247,Irritable bowel syndrome,22
+2248,Ischaemia,43
+2249,Ischaemic cardiomyopathy,2
+2250,Ischaemic cerebral infarction,1
+2251,Ischaemic coronary artery disorders,4
+2252,Ischaemic hepatitis,1
+2253,Ischaemic neuropathy,2
+2254,Ischaemic stroke,10
+2255,Jarisch-Herxheimer reaction,6
+2256,Jaundice,348
+2257,Jaundice cholestatic,138
+2258,Jaundice hepatocellular,4
+2259,Jaundice neonatal,3
+2260,Jaw disorder,1
+2261,Jessner's lymphocytic infiltration,1
+2262,Joint contracture,2
+2263,Joint crepitation,2
+2264,Joint dislocation,9
+2265,Joint effusion,6
+2266,Joint hyperextension,4
+2267,Joint injury,6
+2268,Joint instability,1
+2269,Joint lock,1
+2270,Joint range of motion decreased,3
+2271,Joint related signs and symptoms,2
+2272,Joint stiffness,38
+2273,Joint swelling,66
+2274,Judgement impaired,2
+2275,Juvenile idiopathic arthritis,1
+2276,Kaposi's sarcoma,7
+2277,Kaposi's varicelliform eruption,1
+2278,Kearns-Sayre syndrome,1
+2279,Keloid scar,2
+2280,Keratitis,100
+2281,Keratoacanthoma,5
+2282,Keratoconus,1
+2283,Keratopathy,15
+2284,Keratosis pilaris,3
+2285,Ketoacidosis,9
+2286,Ketogenic diet,1
+2287,Ketonuria,8
+2288,Ketosis,13
+2289,Kidney fibrosis,1
+2290,Kidney infection,4
+2291,Klebsiella sepsis,2
+2292,Klinefelter's syndrome,2
+2293,Knee deformity,1
+2294,Koebner phenomenon,1
+2295,Kounis syndrome,2
+2296,Kyphosis,1
+2297,Labile blood pressure,4
+2298,Labile hypertension,1
+2299,Laboratory test abnormal,48
+2300,Labyrinthitis,16
+2301,Laceration,29
+2302,Lack of spontaneous speech,1
+2303,Lacrimal disorder,56
+2304,Lacrimal structural disorder,34
+2305,Lacrimation decreased,10
+2306,Lacrimation increased,174
+2307,Lactase deficiency,4
+2308,Lactic acidosis,29
+2309,Lactose intolerance,4
+2310,Lacunar infarction,2
+2311,Langerhans' cell histiocytosis,1
+2312,Large intestinal haemorrhage,2
+2313,Large intestinal obstruction,2
+2314,Large intestinal ulcer,1
+2315,Large intestine perforation,7
+2316,Large intestine polyp,9
+2317,Laryngeal cancer,1
+2318,Laryngeal disorder,1
+2319,Laryngeal haemorrhage,1
+2320,Laryngeal neoplasm,2
+2321,Laryngeal oedema,98
+2322,Laryngeal pain,113
+2323,Laryngitis,100
+2324,Laryngospasm,106
+2325,Laryngotracheal oedema,2
+2326,Latent tetany,1
+2327,Latent tuberculosis,2
+2328,Learning disability,1
+2329,Learning disorder,1
+2330,Left ventricular dysfunction,12
+2331,Left ventricular failure,14
+2332,Left ventricular hypertrophy,1
+2333,Leiomyoma,1
+2334,Lenticular opacities,20
+2335,Lenticular pigmentation,1
+2336,Lentigo,1
+2337,Leriche syndrome,1
+2338,Lethargy,234
+2339,Leukaemia,32
+2340,Leukaemia cutis,1
+2341,Leukaemoid reaction,2
+2342,Leukocytoclastic vasculitis,61
+2343,Leukocytosis,161
+2344,Leukoderma,73
+2345,Leukoencephalopathy,9
+2346,Leukopenia,552
+2347,Leukoplakia,2
+2348,Leukoplakia oral,5
+2349,Leukostasis,1
+2350,Lhermitte's sign,3
+2351,Libido decreased,217
+2352,Libido disorder,12
+2353,Libido increased,83
+2354,Lichen planus,16
+2355,Lichenification,1
+2356,Lichenoid keratosis,14
+2357,Lid sulcus deepened,1
+2358,Ligament injury,3
+2359,Ligament sprain,23
+2360,Light anaesthesia,7
+2361,Limb deformity,1
+2362,Limb discomfort,7
+2363,Limb injury,6
+2364,Limb malformation,1
+2365,Limb reduction defect,5
+2366,Linear IgA disease,1
+2367,Lip blister,2
+2368,Lip dry,14
+2369,Lip haemorrhage,2
+2370,Lip oedema,5
+2371,Lip pain,8
+2372,Lip swelling,21
+2373,Lip ulceration,7
+2374,Lipase abnormal,1
+2375,Lipase increased,36
+2376,Lipid metabolism disorder,2
+2377,Lipidosis,1
+2378,Lipids abnormal,3
+2379,Lipids increased,2
+2380,Lipoatrophy,17
+2381,Lipodystrophy acquired,29
+2382,Lipoedema,5
+2383,Lipohypertrophy,32
+2384,Lipoma,13
+2385,Lipomatosis,4
+2386,Listeriosis,1
+2387,Livedo reticularis,5
+2388,Liver abscess,2
+2389,Liver disorder,103
+2390,Liver function test abnormal,279
+2391,Liver function test normal,3
+2392,Liver injury,144
+2393,Liver tenderness,7
+2394,Lividity,2
+2395,Lobar pneumonia,7
+2396,Local reaction,88
+2397,Local swelling,41
+2398,Localised infection,10
+2399,Localised intraabdominal fluid collection,1
+2400,Localised oedema,26
+2401,Loeffler's syndrome,3
+2402,Logorrhoea,8
+2403,Long QT syndrome,3
+2404,Long QT syndrome congenital,1
+2405,Lordosis,1
+2406,Loss of consciousness,640
+2407,Loss of control of legs,1
+2408,Loss of libido,55
+2409,Loss of proprioception,1
+2410,Low birth weight baby,2
+2411,Low density lipoprotein increased,12
+2412,Low set ears,2
+2413,Lower gastrointestinal haemorrhage,4
+2414,Lower limb fracture,3
+2415,Lower respiratory tract infection,40
+2416,Lower urinary tract symptoms,1
+2417,Lumbar radiculopathy,1
+2418,Lung abscess,1
+2419,Lung adenocarcinoma stage I,1
+2420,Lung cancer metastatic,5
+2421,Lung disorder,81
+2422,Lung infection,17
+2423,Lung infiltration,65
+2424,Lung neoplasm,2
+2425,Lung neoplasm malignant,23
+2426,Lupus-like syndrome,24
+2427,Lyme disease,1
+2428,Lymph node abscess,1
+2429,Lymph node pain,2
+2430,Lymphadenitis,14
+2431,Lymphadenopathy,210
+2432,Lymphangioleiomyomatosis,1
+2433,Lymphangitis,7
+2434,Lymphatic disorder,9
+2435,Lymphocele,3
+2436,Lymphocyte count abnormal,3
+2437,Lymphocyte count decreased,12
+2438,Lymphocyte count increased,6
+2439,Lymphocyte transformation test positive,1
+2440,Lymphocytic infiltration,1
+2441,Lymphocytic leukaemia,1
+2442,Lymphocytosis,35
+2443,Lymphoedema,29
+2444,Lymphoma,46
+2445,Lymphoma cutis,1
+2446,Lymphopenia,76
+2447,Lymphoproliferative disorder,14
+2448,Lymphorrhoea,1
+2449,Lymphostasis,2
+2450,Macular degeneration,13
+2451,Macular fibrosis,1
+2452,Macular hole,1
+2453,Macular oedema,25
+2454,Macular pigmentation,1
+2455,Macule,3
+2456,Maculopathy,7
+2457,Madarosis,9
+2458,Major depression,30
+2459,Malabsorption,12
+2460,Malaise,556
+2461,Malaria,1
+2462,Male orgasmic disorder,1
+2463,Male sexual dysfunction,6
+2464,Malformation venous,1
+2465,Malignant histiocytosis,1
+2466,Malignant hypertension,7
+2467,Malignant melanoma,36
+2468,Malignant mesenchymoma,1
+2469,Malignant neoplasm of renal pelvis,1
+2470,Malignant neoplasm progression,1
+2471,Malignant ovarian cyst,1
+2472,Malignant transformation,1
+2473,Mallory-Weiss syndrome,1
+2474,Malnutrition,497
+2475,Mammogram abnormal,1
+2476,Mania,109
+2477,Mantle cell lymphoma,1
+2478,Marrow hyperplasia,3
+2479,Masked facies,10
+2480,Mass,17
+2481,Mastication disorder,1
+2482,Mastitis,26
+2483,Mastocytosis,1
+2484,Mastoiditis,1
+2485,Mean arterial pressure,6
+2486,Mean arterial pressure decreased,1
+2487,Mean cell volume increased,1
+2488,Mean platelet volume decreased,1
+2489,Measles,5
+2490,Mechanical urticaria,1
+2491,Mediastinal disorder,473
+2492,Mediastinitis,2
+2493,Mediastinum neoplasm,1
+2494,Medical device complication,6
+2495,Medical device discomfort,1
+2496,Medication overuse headache,6
+2497,Medication residue present,3
+2498,Megacolon,17
+2499,Meibomianitis,4
+2500,Melaena,158
+2501,Melanocytic naevus,10
+2502,Melanoderma,2
+2503,Melanosis,9
+2504,Memory impairment,127
+2505,Menarche,2
+2506,Mendelson's syndrome,1
+2507,Meniere's disease,6
+2508,Meningioma,3
+2509,Meningioma benign,2
+2510,Meningism,17
+2511,Meningitis,56
+2512,Meningitis aseptic,30
+2513,Meningitis bacterial,3
+2514,Meningitis chemical,4
+2515,Meningitis cryptococcal,3
+2516,Meningitis viral,1
+2517,Meningocele,2
+2518,Meningoencephalitis herpetic,2
+2519,Meningomyelocele,1
+2520,Menometrorrhagia,10
+2521,Menopausal disorder,1
+2522,Menopausal symptoms,249
+2523,Menopause,23
+2524,Menorrhagia,120
+2525,Menstrual disorder,95
+2526,Menstruation delayed,10
+2527,Menstruation irregular,83
+2528,Mental disability,231
+2529,Mental disorder,497
+2530,Mental disorder due to a general medical condition,6
+2531,Mental impairment disorders,1
+2532,Mental retardation,22
+2533,Mental status changes,23
+2534,Mesenteric artery thrombosis,1
+2535,Mesenteric occlusion,2
+2536,Mesenteric vascular insufficiency,4
+2537,Mesothelioma,1
+2538,Metabolic acidosis,53
+2539,Metabolic alkalosis,6
+2540,Metabolic disorder,23
+2541,Metabolic encephalopathy,3
+2542,Metabolic syndrome,2
+2543,Metal poisoning,1
+2544,Metaphyseal dysplasia,1
+2545,Metaplasia,3
+2546,Metastases to central nervous system,5
+2547,Metastases to liver,8
+2548,Metastases to peritoneum,1
+2549,Metastases to spine,4
+2550,Metastasis,6
+2551,Metastatic malignant melanoma,2
+2552,Metastatic neoplasm,20
+2553,Metastatic pain,4
+2554,Metastatic renal cell carcinoma,1
+2555,Methaemoglobinaemia,29
+2556,Metrorrhagia,120
+2557,Microalbuminuria,3
+2558,Microangiopathic haemolytic anaemia,6
+2559,Microangiopathy,1
+2560,Microcephaly,8
+2561,Microcytic anaemia,6
+2562,Microcytosis,1
+2563,Microembolism,1
+2564,Microsomia,6
+2565,Micturition disorder,41
+2566,Micturition urgency,79
+2567,Middle ear effusion,1
+2568,Middle insomnia,13
+2569,Migraine,252
+2570,Migraine without aura,3
+2571,Milia,2
+2572,Miliaria,45
+2573,Mineralocorticoid deficiency,1
+2574,Miosis,52
+2575,Mitochondrial toxicity,3
+2576,Mitral valve disease,2
+2577,Mitral valve incompetence,9
+2578,Mixed connective tissue disease,1
+2579,Mixed liver injury,1
+2580,Moaning,2
+2581,Mobility decreased,3
+2582,Molluscum contagiosum,5
+2583,Monarthritis,2
+2584,Monoclonal gammopathy,1
+2585,Monocyte count decreased,1
+2586,Monocyte count increased,5
+2587,Monocytosis,16
+2588,Mononeuritis,2
+2589,Mononeuropathy,2
+2590,Monoparesis,7
+2591,Monoplegia,21
+2592,Mood alterations with depressive symptoms,1
+2593,Mood swings,257
+2594,Morbid thoughts,1
+2595,Morphoea,1
+2596,Motion sickness,14
+2597,Motor dysfunction,13
+2598,Motor neurone disease,1
+2599,Mouth haemorrhage,19
+2600,Mouth injury,3
+2601,Mouth ulceration,208
+2602,Movement disorder,30
+2603,Mucocutaneous candidiasis,2
+2604,Mucosal atrophy,1
+2605,Mucosal discolouration,3
+2606,Mucosal dryness,5
+2607,Mucosal erosion,1
+2608,Mucosal excoriation,1
+2609,Mucosal haemorrhage,2
+2610,Mucosal inflammation,94
+2611,Mucosal pigmentation,4
+2612,Mucosal ulceration,7
+2613,Mucous membrane disorder,21
+2614,Mucous stools,2
+2615,Multi-organ failure,37
+2616,Multifocal motor neuropathy,1
+2617,Multiparous,1
+2618,Multiple allergies,1
+2619,Multiple congenital abnormalities,4
+2620,Multiple fractures,81
+2621,Multiple pregnancy,6
+2622,Multiple sclerosis,7
+2623,Multiple sclerosis relapse,3
+2624,Muscle atrophy,31
+2625,Muscle contractions involuntary,59
+2626,Muscle contracture,18
+2627,Muscle enzyme increased,3
+2628,Muscle fatigue,5
+2629,Muscle fibrosis,1
+2630,Muscle haemorrhage,5
+2631,Muscle injury,6
+2632,Muscle mass,19
+2633,Muscle necrosis,3
+2634,Muscle relaxant therapy,61
+2635,Muscle rigidity,62
+2636,Muscle rupture,1
+2637,Muscle spasms,722
+2638,Muscle spasticity,11
+2639,Muscle strain,13
+2640,Muscle swelling,4
+2641,Muscle tightness,23
+2642,Muscle tone disorder,1
+2643,Muscle twitching,147
+2644,Muscular weakness,319
+2645,Musculoskeletal chest pain,54
+2646,Musculoskeletal deformity,1
+2647,Musculoskeletal discomfort,1242
+2648,Musculoskeletal disorder,43
+2649,Musculoskeletal pain,189
+2650,Musculoskeletal stiffness,169
+2651,Mutism,5
+2652,Myalgia,609
+2653,Myasthenia gravis,26
+2654,Myasthenic syndrome,9
+2655,Mycobacterial infection,1
+2656,Mycobacterium avium complex infection,2
+2657,Mycobacterium test,2
+2658,Mycosis fungoides,3
+2659,Mydriasis,117
+2660,Myelitis,11
+2661,Myelitis transverse,11
+2662,Myelodysplastic syndrome,26
+2663,Myelodysplastic syndrome transformation,1
+2664,Myelofibrosis,3
+2665,Myeloid leukaemia,7
+2666,Myeloid metaplasia,3
+2667,Myeloproliferative disorder,3
+2668,Myocardial depression,3
+2669,Myocardial haemorrhage,2
+2670,Myocardial infarction,355
+2671,Myocardial ischaemia,122
+2672,Myocardial rupture,13
+2673,Myocarditis,27
+2674,Myoclonic epilepsy,1
+2675,Myoclonus,80
+2676,Myofascial pain syndrome,1
+2677,Myoglobin urine present,12
+2678,Myoglobinaemia,1
+2679,Myoglobinuria,12
+2680,Myopathy,122
+2681,Myopathy toxic,1
+2682,Myopericarditis,1
+2683,Myopia,20
+2684,Myositis,64
+2685,Myotonia,4
+2686,Myringitis,1
+2687,Myxoedema,6
+2688,N-acetylglutamate synthase deficiency,1
+2689,Nail bed infection,1
+2690,Nail bed tenderness,2
+2691,Nail discolouration,15
+2692,Nail discomfort,2
+2693,Nail disorder,100
+2694,Nail dystrophy,1
+2695,Nail hypertrophy,1
+2696,Nail infection,3
+2697,Nail pigmentation,10
+2698,Nail ridging,1
+2699,Nail toxicity,2
+2700,Narcolepsy,2
+2701,Nasal congestion,223
+2702,Nasal discomfort,64
+2703,Nasal disorder,1
+2704,Nasal dryness,49
+2705,Nasal inflammation,3
+2706,Nasal mucosal disorder,3
+2707,Nasal obstruction,3
+2708,Nasal odour,1
+2709,Nasal oedema,8
+2710,Nasal polyps,8
+2711,Nasal septum deviation,1
+2712,Nasal septum disorder,2
+2713,Nasal septum perforation,13
+2714,Nasal septum ulceration,3
+2715,Nasal ulcer,9
+2716,Nasopharyngeal cancer,1
+2717,Nasopharyngitis,370
+2718,Nausea,1302
+2719,Neck injury,3
+2720,Neck pain,155
+2721,Necrosis,103
+2722,Necrosis ischaemic,6
+2723,Necrotising colitis,9
+2724,Necrotising enterocolitis neonatal,7
+2725,Necrotising fasciitis,5
+2726,Negativism,1
+2727,Neisseria infection,1
+2728,Neonatal disorder,4
+2729,Neonatal hyponatraemia,1
+2730,Neonatal infection,1
+2731,Neonatal tachypnoea,1
+2732,Neoplasm,188
+2733,Neoplasm malignant,145
+2734,Neoplasm progression,1
+2735,Neoplasm prostate,5
+2736,Neoplasm recurrence,2
+2737,Neoplasm skin,11
+2738,Nephritic syndrome,6
+2739,Nephritis,47
+2740,Nephrocalcinosis,8
+2741,Nephrogenic diabetes insipidus,12
+2742,Nephrogenic systemic fibrosis,7
+2743,Nephrolithiasis,124
+2744,Nephropathy,65
+2745,Nephropathy toxic,102
+2746,Nephrosclerosis,4
+2747,Nephrotic syndrome,66
+2748,Nerve compression,5
+2749,Nerve conduction studies abnormal,1
+2750,Nerve injury,26
+2751,Nervous system disorder,682
+2752,Nervousness,486
+2753,Netherton's syndrome,2
+2754,Neural tube defect,1
+2755,Neuralgia,103
+2756,Neuritis,112
+2757,Neurodermatitis,3
+2758,Neuroectodermal neoplasm,1
+2759,Neurofibroma,1
+2760,Neurofibromatosis,1
+2761,Neurogenic bladder,7
+2762,Neuroglycopenia,3
+2763,Neuroleptic malignant syndrome,71
+2764,Neurological disorders NEC,1
+2765,Neurological examination abnormal,1
+2766,Neurological symptom,34
+2767,Neuroma,2
+2768,Neuromuscular block prolonged,3
+2769,Neuromuscular toxicity,1
+2770,Neuromyopathy,5
+2771,Neuropathic arthropathy,3
+2772,Neuropathy peripheral,503
+2773,Neurosis,44
+2774,Neurotoxicity,52
+2775,Neurotransmitter level altered,1
+2776,Neutropenia,343
+2777,Neutropenic colitis,14
+2778,Neutropenic infection,9
+2779,Neutropenic sepsis,20
+2780,Neutrophil count decreased,32
+2781,Neutrophil count increased,10
+2782,Neutrophil percentage increased,1
+2783,Neutrophilia,5
+2784,Neutrophilic dermatosis,1
+2785,Nicotine dependence,1
+2786,Nicotinic acid deficiency,1
+2787,Night blindness,24
+2788,Night sweats,80
+2789,Nightmare,152
+2790,Nipple disorder,4
+2791,Nipple pain,12
+2792,Nipple swelling,2
+2793,Nitrogen balance negative,20
+2794,Nocardiosis,1
+2795,Nocturia,139
+2796,Nocturnal dyspnoea,3
+2797,Nocturnal emission,1
+2798,Nodal arrhythmia,13
+2799,Nodal rhythm,9
+2800,Nodular regenerative hyperplasia,5
+2801,Nodule,41
+2802,Non-Hodgkin's lymphoma,47
+2803,Non-cardiac chest pain,19
+2804,Non-cardiogenic pulmonary oedema,6
+2805,Non-small cell lung cancer,2
+2806,Noninfectious peritonitis,1
+2807,Normochromic normocytic anaemia,9
+2808,Nuchal rigidity,71
+2809,Nystagmus,100
+2810,Obesity,24
+2811,Obliterative bronchiolitis,8
+2812,Obsessive rumination,2
+2813,Obsessive thoughts,5
+2814,Obsessive-compulsive disorder,9
+2815,Obsessive-compulsive personality disorder,3
+2816,Obstetric procedure complication,1
+2817,Obstruction,10
+2818,Obstructive airways disorder,26
+2819,Occipital neuralgia,1
+2820,Occult blood positive,7
+2821,Occupational exposures,2
+2822,Ochronosis,1
+2823,Ocular discomfort,25
+2824,Ocular hyperaemia,61
+2825,Ocular hypertension,3
+2826,Ocular icterus,7
+2827,Ocular sensation disorders,1
+2828,Ocular surface disease,2
+2829,Ocular toxicity,11
+2830,Ocular vascular disorder,1
+2831,Oculogyric crisis,48
+2832,Oculomucocutaneous syndrome,1
+2833,Oculorespiratory syndrome,2
+2834,Odynophagia,13
+2835,Oedema,625
+2836,Oedema due to cardiac disease,2
+2837,Oedema genital,10
+2838,Oedema mouth,15
+2839,Oedema mucosal,6
+2840,Oedema peripheral,495
+2841,Oesophageal achalasia,9
+2842,Oesophageal atresia,1
+2843,Oesophageal candidiasis,18
+2844,Oesophageal carcinoma,3
+2845,Oesophageal discomfort,1
+2846,Oesophageal disorder,7
+2847,Oesophageal haemorrhage,6
+2848,Oesophageal irritation,1
+2849,Oesophageal motility disorder,2
+2850,Oesophageal neoplasm,1
+2851,Oesophageal obstruction,2
+2852,Oesophageal oedema,1
+2853,Oesophageal pain,7
+2854,Oesophageal perforation,6
+2855,Oesophageal rupture,1
+2856,Oesophageal spasm,11
+2857,Oesophageal stenosis,17
+2858,Oesophageal ulcer,50
+2859,Oesophageal varices haemorrhage,1
+2860,Oesophagitis,183
+2861,Oesophagitis ulcerative,17
+2862,Oestradiol increased,2
+2863,Oestrogen deficiency,4
+2864,Oestrogenic effect,4
+2865,Oligohydramnios,4
+2866,Oligomenorrhoea,14
+2867,Oliguria,136
+2868,Onychoclasis,8
+2869,Onycholysis,16
+2870,Onychomadesis,7
+2871,Onychomycosis,18
+2872,Ophthalmic herpes simplex,6
+2873,Ophthalmic herpes zoster,2
+2874,Ophthalmoplegia,15
+2875,Opisthotonus,22
+2876,Opportunistic infection,56
+2877,Optic atrophy,20
+2878,Optic disc vascular disorder,1
+2879,Optic ischaemic neuropathy,13
+2880,Optic nerve cupping,2
+2881,Optic nerve disorder,15
+2882,Optic neuritis,115
+2883,Oral candidiasis,108
+2884,Oral discomfort,13
+2885,Oral disorder,28
+2886,Oral fungal infection,4
+2887,Oral herpes,28
+2888,Oral infection,4
+2889,Oral mucosa erosion,1
+2890,Oral mucosal blistering,5
+2891,Oral mucosal discolouration,2
+2892,Oral mucosal exfoliation,3
+2893,Oral neoplasm,3
+2894,Oral neoplasm benign,1
+2895,Oral pain,34
+2896,Oral papilloma,1
+2897,Oral pruritus,4
+2898,Oral pustule,1
+2899,Oral toxicity,1
+2900,Orbital oedema,6
+2901,Orchitis,10
+2902,Orchitis noninfective,10
+2903,Organ failure,3
+2904,Organising pneumonia,6
+2905,Orgasm abnormal,13
+2906,Orgasmic sensation decreased,2
+2907,Oromandibular dystonia,2
+2908,Oropharyngeal blistering,2
+2909,Oropharyngeal candidiasis,8
+2910,Oropharyngeal discomfort,112
+2911,Oropharyngeal pain,159
+2912,Oropharyngeal spasm,3
+2913,Oropharyngeal squamous cell carcinoma,1
+2914,Oropharyngeal swelling,14
+2915,Orthopnoea,8
+2916,Orthostatic hypertension,4
+2917,Orthostatic hypotension,266
+2918,Orthostatic intolerance,2
+2919,Oscillopsia,3
+2920,Osmotic demyelination syndrome,2
+2921,Osteitis,1
+2922,Osteoarthritis,277
+2923,Osteocalcin increased,1
+2924,Osteochondrosis,3
+2925,Osteodystrophy,1
+2926,Osteogenesis imperfecta,1
+2927,Osteolysis,1
+2928,Osteomalacia,16
+2929,Osteomyelitis,27
+2930,Osteonecrosis,64
+2931,Osteonecrosis of jaw,10
+2932,Osteopenia,26
+2933,Osteoporosis,88
+2934,Osteoporotic fracture,7
+2935,Osteosarcoma,2
+2936,Osteosarcoma metastatic,1
+2937,Osteosclerosis,1
+2938,Otitis externa,35
+2939,Otitis media,111
+2940,Otitis media acute,3
+2941,Otitis media chronic,1
+2942,Otorrhoea,1
+2943,Otosalpingitis,1
+2944,Ototoxicity,23
+2945,Ovarian atrophy,1
+2946,Ovarian cancer,23
+2947,Ovarian cyst,32
+2948,Ovarian disorder,14
+2949,Ovarian enlargement,4
+2950,Ovarian failure,5
+2951,Ovarian germ cell teratoma benign,1
+2952,Ovarian haemorrhage,1
+2953,Ovarian hyperstimulation syndrome,11
+2954,Ovarian neoplasm,2
+2955,Overdose,9
+2956,Ovulation disorder,1
+2957,Ovulation pain,1
+2958,Oxygen saturation decreased,13
+2959,PCO2,2
+2960,Pain,945
+2961,Pain in extremity,293
+2962,Pain in jaw,41
+2963,Pain of skin,29
+2964,Painful ejaculation,3
+2965,Painful erection,3
+2966,Painful respiration,5
+2967,Pallor,147
+2968,Palmar erythema,5
+2969,Palmar-plantar erythrodysaesthesia syndrome,9
+2970,Palpable purpura,1
+2971,Palpitations,538
+2972,Pancreatic abscess,1
+2973,Pancreatic carcinoma,2
+2974,Pancreatic disorder,5
+2975,Pancreatic enzymes abnormal,1
+2976,Pancreatic enzymes increased,3
+2977,Pancreatic insufficiency,1
+2978,Pancreatic necrosis,1
+2979,Pancreatic neoplasm,2
+2980,Pancreatic pseudocyst,3
+2981,Pancreatitis,337
+2982,Pancreatitis acute,62
+2983,Pancreatitis chronic,2
+2984,Pancreatitis haemorrhagic,10
+2985,Pancreatitis necrotising,8
+2986,Pancytopenia,423
+2987,Panic attack,35
+2988,Panic disorder,10
+2989,Panic reaction,19
+2990,Panniculitis,3
+2991,Panophthalmitis,26
+2992,Papillary muscle rupture,1
+2993,Papillary thyroid cancer,2
+2994,Papilloedema,46
+2995,Papilloma,3
+2996,Papule,18
+2997,Paracoccidioides infection,1
+2998,Paradoxical pressor response,2
+2999,Paraesthesia,790
+3000,Paraesthesia oral,65
+3001,Paraesthesias and dysaesthesias,2
+3002,Parainfluenzae virus infection,1
+3003,Paralysis,108
+3004,Paralysis flaccid,11
+3005,Paranasal sinus hypersecretion,6
+3006,Paranoia,102
+3007,Paraparesis,11
+3008,Paraplegia,19
+3009,Paraproteinaemia,1
+3010,Parasomnia,4
+3011,Parathyroid disorder,9
+3012,Parathyroid tumour,1
+3013,Parathyroid tumour benign,1
+3014,Paresis,46
+3015,Parkinson's disease,14
+3016,Parkinsonian gait,4
+3017,Parkinsonian rest tremor,6
+3018,Parkinsonism,67
+3019,Paronychia,14
+3020,Parosmia,92
+3021,Parotid duct obstruction,1
+3022,Parotid gland enlargement,21
+3023,Parotid gland inflammation,1
+3024,Parotitis,5
+3025,Paroxysmal nocturnal haemoglobinuria,1
+3026,Partial seizures,4
+3027,Partner stress,5
+3028,Patent ductus arteriosus,8
+3029,Pathogen resistance,7
+3030,Pathological gambling,13
+3031,Pectus excavatum,1
+3032,Pedal pulse decreased,1
+3033,Peliosis hepatis,15
+3034,Pelvi-ureteric obstruction,1
+3035,Pelvic abscess,1
+3036,Pelvic discomfort,5
+3037,Pelvic fibrosis,2
+3038,Pelvic fracture,1
+3039,Pelvic haematoma,1
+3040,Pelvic haemorrhage,1
+3041,Pelvic infection,2
+3042,Pelvic inflammatory disease,6
+3043,Pelvic neoplasm,1
+3044,Pelvic pain,85
+3045,Pelvic venous thrombosis,7
+3046,Pemphigoid,15
+3047,Pemphigus,30
+3048,Penile curvature,1
+3049,Penile discharge,2
+3050,Penile haematoma,1
+3051,Penile haemorrhage,4
+3052,Penile infection,2
+3053,Penile oedema,4
+3054,Penile pain,3
+3055,Penile swelling,3
+3056,Penis disorder,21
+3057,Peptic ulcer,101
+3058,Peptic ulcer haemorrhage,5
+3059,Peptic ulcer perforation,3
+3060,Performance status decreased,1
+3061,Periarthritis,6
+3062,Pericardial disease,1
+3063,Pericardial effusion,52
+3064,Pericardial haemorrhage,9
+3065,Pericardial rub,1
+3066,Pericarditis,63
+3067,Pericarditis constrictive,3
+3068,Perineal abscess,1
+3069,Perineal injury,1
+3070,Perineal pain,10
+3071,Perinephric collection,1
+3072,Periodontal destruction,2
+3073,Periodontal disease,3
+3074,Periodontitis,13
+3075,Periorbital haematoma,4
+3076,Periorbital oedema,51
+3077,Periostitis,3
+3078,Peripheral arterial occlusive disease,4
+3079,Peripheral artery aneurysm,1
+3080,Peripheral artery stenosis,2
+3081,Peripheral artery thrombosis,1
+3082,Peripheral coldness,60
+3083,Peripheral embolism,7
+3084,Peripheral ischaemia,44
+3085,Peripheral motor neuropathy,18
+3086,Peripheral nerve injury,2
+3087,Peripheral nerve palsy,5
+3088,Peripheral sensorimotor neuropathy,6
+3089,Peripheral sensory neuropathy,37
+3090,Peripheral vascular disorder,63
+3091,Perirectal abscess,5
+3092,Perirenal haematoma,1
+3093,Peritoneal adhesions,1
+3094,Peritoneal cloudy effluent,1
+3095,Peritoneal haemorrhage,11
+3096,Peritonitis,40
+3097,Peritonitis bacterial,1
+3098,Peritonsillar abscess,2
+3099,Peritonsillitis,1
+3100,Periventricular leukomalacia,2
+3101,Peroneal nerve palsy,13
+3102,Perseveration,3
+3103,Persistent foetal circulation,1
+3104,Personality change,26
+3105,Personality disorder,52
+3106,Pertussis,2
+3107,Petechiae,127
+3108,Petit mal epilepsy,7
+3109,Peyronie's disease,16
+3110,Phantom pain,1
+3111,Pharyngeal disorder,7
+3112,Pharyngeal erythema,2
+3113,Pharyngeal haemorrhage,2
+3114,Pharyngeal lesion,2
+3115,Pharyngeal oedema,28
+3116,Pharyngitis,413
+3117,Pharyngitis streptococcal,13
+3118,Phenylketonuria,3
+3119,Phimosis,3
+3120,Phlebitis,194
+3121,Phlebitis superficial,9
+3122,Phlebosclerosis,2
+3123,Phobia,10
+3124,Phonological disorder,1
+3125,Phonophobia,2
+3126,Photodermatosis,4
+3127,Photoonycholysis,1
+3128,Photophobia,171
+3129,Photopsia,35
+3130,Photosensitivity reaction,419
+3131,Physical assault,6
+3132,Pica,1
+3133,Pigment dispersion syndrome,1
+3134,Pigmentation disorder,44
+3135,Piloerection,22
+3136,Pilonidal cyst,2
+3137,Pituitary haemorrhage,9
+3138,Pituitary infarction,6
+3139,Pituitary tumour,3
+3140,Pituitary tumour benign,9
+3141,Pituitary-dependent Cushing's syndrome,4
+3142,Pityriasis lichenoides et varioliformis acuta,1
+3143,Placental disorder,1
+3144,Plantar erythema,1
+3145,Plantar fasciitis,5
+3146,Plasma cell leukaemia,1
+3147,Plasma cell myeloma,12
+3148,Plasmacytoma,12
+3149,Plasmodium falciparum infection,2
+3150,Platelet aggregation abnormal,1
+3151,Platelet aggregation increased,1
+3152,Platelet aggregation inhibition,1
+3153,Platelet count abnormal,2
+3154,Platelet count decreased,84
+3155,Platelet count normal,1
+3156,Platelet disorder,13
+3157,Platelet dysfunction,1
+3158,Platelet production decreased,1
+3159,Plateletcrit decreased,1
+3160,Pleural disorder,7
+3161,Pleural effusion,122
+3162,Pleural fibrosis,6
+3163,Pleural infection,1
+3164,Pleural rub,2
+3165,Pleurisy,25
+3166,Pleuritic pain,24
+3167,Pleuropericarditis,3
+3168,Pleurothotonus,2
+3169,Pneumatosis,1
+3170,Pneumatosis intestinalis,4
+3171,Pneumocystis jirovecii infection,2
+3172,Pneumocystis jirovecii pneumonia,13
+3173,Pneumomediastinum,1
+3174,Pneumonia,364
+3175,Pneumonia anthrax,1
+3176,Pneumonia aspiration,26
+3177,Pneumonia bacterial,5
+3178,Pneumonia cytomegaloviral,1
+3179,Pneumonia fungal,2
+3180,Pneumonia klebsiella,2
+3181,Pneumonia mycoplasmal,1
+3182,Pneumonia streptococcal,9
+3183,Pneumopericardium,2
+3184,Pneumoperitoneum,2
+3185,Pneumothorax,79
+3186,Poikilocytosis,1
+3187,Poisoning,23
+3188,Poliomyelitis,2
+3189,Pollakiuria,375
+3190,Polyarteritis nodosa,8
+3191,Polyarthritis,7
+3192,Polycystic ovaries,1
+3193,Polycythaemia,26
+3194,Polycythaemia vera,4
+3195,Polydactyly,3
+3196,Polydipsia,41
+3197,Polydipsia psychogenic,1
+3198,Polyhydramnios,1
+3199,Polymenorrhoea,5
+3200,Polymorphic light eruption,2
+3201,Polymyalgia rheumatica,12
+3202,Polymyositis,3
+3203,Polyneuropathy,39
+3204,Polyomavirus infections,3
+3205,Polyomavirus-associated nephropathy,3
+3206,Polyp,88
+3207,Polyserositis,2
+3208,Polyuria,220
+3209,Poor peripheral circulation,4
+3210,Poor quality sleep,13
+3211,Porphyria acute,4
+3212,Porphyria non-acute,24
+3213,Porphyrin metabolism disorder,28
+3214,Portal hypertension,4
+3215,Portal vein thrombosis,5
+3216,Post herpetic neuralgia,4
+3217,Post lumbar puncture syndrome,2
+3218,Post procedural complication,10
+3219,Post procedural constipation,1
+3220,Post procedural diarrhoea,1
+3221,Post procedural discharge,1
+3222,Post procedural haematoma,2
+3223,Post procedural haemorrhage,26
+3224,Post procedural infection,9
+3225,Post procedural oedema,1
+3226,Post procedural swelling,2
+3227,Post thrombotic syndrome,2
+3228,Post transplant lymphoproliferative disorder,2
+3229,Post-traumatic neck syndrome,1
+3230,Post-traumatic pain,3
+3231,Post-tussive vomiting,1
+3232,Posterior capsule opacification,1
+3233,Posterior reversible encephalopathy syndrome,20
+3234,Postictal state,1
+3235,Postinfarction angina,1
+3236,Postmenopausal haemorrhage,1
+3237,Postoperative fever,1
+3238,Postoperative ileus,1
+3239,Postoperative wound complication,3
+3240,Postoperative wound infection,5
+3241,Postpartum disorder,1
+3242,Postpartum haemorrhage,2
+3243,Postural orthostatic tachycardia syndrome,2
+3244,Posture abnormal,2
+3245,Potassium imbalance,1
+3246,Pre-eclampsia,2
+3247,Pre-existing disease,7
+3248,Precocious puberty,11
+3249,Pregnancy,72
+3250,Pregnancy test false positive,9
+3251,Pregnancy test positive,2
+3252,Prehypertension,1
+3253,Premature baby,3
+3254,Premature delivery,3
+3255,Premature ejaculation,8
+3256,Premature labour,6
+3257,Premature menopause,3
+3258,Premature rupture of membranes,2
+3259,Premature separation of placenta,1
+3260,Premenstrual syndrome,26
+3261,Presbyopia,1
+3262,Pressure of speech,1
+3263,Presyncope,36
+3264,Priapism,68
+3265,Primary hypothyroidism,2
+3266,Prinzmetal angina,7
+3267,Procedural complication,13
+3268,Procedural haemorrhage,8
+3269,Procedural hypertension,3
+3270,Procedural hypotension,3
+3271,Procedural nausea,6
+3272,Procedural pain,41
+3273,Procedural site reaction,2
+3274,Proctalgia,67
+3275,Proctitis,25
+3276,Proctitis herpes,1
+3277,Proctitis ulcerative,1
+3278,Proctocolitis,27
+3279,Product taste abnormal,2
+3280,Productive cough,25
+3281,Progesterone,2
+3282,Progressive multifocal leukoencephalopathy,15
+3283,Prolactinoma,1
+3284,Prolonged labour,2
+3285,Prostate cancer,27
+3286,Prostate cancer metastatic,1
+3287,Prostate examination abnormal,2
+3288,Prostate induration,2
+3289,Prostate infection,2
+3290,Prostatic acid phosphatase increased,1
+3291,Prostatic adenoma,3
+3292,Prostatic disorder,51
+3293,Prostatic dysplasia,3
+3294,Prostatic pain,2
+3295,Prostatic specific antigen increased,12
+3296,Prostatism,3
+3297,Prostatitis,20
+3298,Prostatomegaly,10
+3299,Protein C deficiency,1
+3300,Protein total decreased,9
+3301,Protein urine present,150
+3302,Protein-losing gastroenteropathy,1
+3303,Proteinuria,143
+3304,Prothrombin level abnormal,2
+3305,Prothrombin level decreased,19
+3306,Prothrombin level increased,59
+3307,Prothrombin time abnormal,1
+3308,Prothrombin time ratio,1
+3309,Prothrombin time shortened,9
+3310,Protrusion tongue,17
+3311,Prurigo,63
+3312,Pruritus,1027
+3313,Pruritus NEC,1
+3314,Pruritus generalised,48
+3315,Pruritus genital,62
+3316,Pseudo-Bartter syndrome,1
+3317,Pseudocholinesterase deficiency,2
+3318,Pseudodementia,1
+3319,Pseudofolliculitis barbae,1
+3320,Pseudohyperkalaemia,1
+3321,Pseudolymphoma,16
+3322,Pseudomembranous colitis,79
+3323,Pseudomonal sepsis,1
+3324,Pseudomonas infection,3
+3325,Pseudomononucleosis,2
+3326,Pseudoporphyria,7
+3327,Psoriasis,93
+3328,Psoriatic arthropathy,1
+3329,Psychiatric decompensation,1
+3330,Psychiatric evaluation abnormal,1
+3331,Psychiatric symptom,12
+3332,Psychomotor retardation,15
+3333,Psychomotor skills impaired,7
+3334,Psychosexual disorder,2
+3335,Psychosomatic disease,2
+3336,Psychotic behaviour,7
+3337,Psychotic disorder,273
+3338,Pterygium,1
+3339,Puberty,3
+3340,Puerperal pyrexia,2
+3341,Pulmonary alveolar haemorrhage,5
+3342,Pulmonary arterial hypertension,3
+3343,Pulmonary congestion,34
+3344,Pulmonary embolism,186
+3345,Pulmonary eosinophilia,29
+3346,Pulmonary fibrosis,63
+3347,Pulmonary function test abnormal,1
+3348,Pulmonary function test decreased,100
+3349,Pulmonary granuloma,1
+3350,Pulmonary haemorrhage,30
+3351,Pulmonary hypertension,42
+3352,Pulmonary hypoplasia,1
+3353,Pulmonary infarction,3
+3354,Pulmonary mass,4
+3355,Pulmonary microemboli,1
+3356,Pulmonary oedema,198
+3357,Pulmonary oil microembolism,1
+3358,Pulmonary ossification,1
+3359,Pulmonary thrombosis,3
+3360,Pulmonary toxicity,24
+3361,Pulmonary valve incompetence,1
+3362,Pulmonary vasculitis,2
+3363,Pulmonary veno-occlusive disease,2
+3364,Pulpitis dental,2
+3365,Pulse abnormal,6
+3366,Pulse absent,2
+3367,Pulse pressure decreased,5
+3368,Pulseless electrical activity,2
+3369,Punctate keratitis,30
+3370,Puncture site haemorrhage,4
+3371,Puncture site pain,1
+3372,Puncture site reaction,1
+3373,Pupillary deformity,1
+3374,Pupillary disorder,3
+3375,Pupillary reflex impaired,1
+3376,Pupils unequal,6
+3377,Purine metabolism disorder,1
+3378,Purple glove syndrome,1
+3379,Purpura,240
+3380,Purpura fulminans,1
+3381,Purpura non-thrombocytopenic,13
+3382,Purpura senile,1
+3383,Pustular psoriasis,9
+3384,Pyelonephritis,46
+3385,Pyelonephritis acute,1
+3386,Pyelonephritis chronic,1
+3387,Pyloric stenosis,3
+3388,Pyoderma,8
+3389,Pyoderma gangrenosum,3
+3390,Pyogenic granuloma,3
+3391,Pyometra,1
+3392,Pyramidal tract syndrome,1
+3393,Pyuria,41
+3394,QRS axis abnormal,3
+3395,Quadriparesis,5
+3396,Quadriplegia,4
+3397,Radial nerve palsy,4
+3398,Radiation injury,7
+3399,Radiation myelopathy,1
+3400,Radiation oesophagitis,1
+3401,Radiation pneumonitis,8
+3402,Radiation skin injury,2
+3403,Radicular pain,1
+3404,Radiculitis,1
+3405,Radiculopathy,6
+3406,Radius fracture,1
+3407,Rales,51
+3408,Rash,1250
+3409,Rash erythematous,114
+3410,Rash follicular,13
+3411,Rash generalised,55
+3412,Rash macular,52
+3413,Rash maculo-papular,179
+3414,Rash morbilliform,5
+3415,Rash papular,46
+3416,Rash pustular,142
+3417,Rash scarlatiniform,1
+3418,Rash vesicular,20
+3419,Raynaud's phenomenon,7
+3420,Reaction to drug excipients,1
+3421,Rebound effect,2
+3422,Recall phenomenon,22
+3423,Rectal abscess,1
+3424,Rectal cancer,1
+3425,Rectal discharge,3
+3426,Rectal haemorrhage,143
+3427,Rectal polyp,4
+3428,Rectal prolapse,1
+3429,Rectal spasm,1
+3430,Rectal tenesmus,48
+3431,Rectal ulcer,2
+3432,Rectocele,1
+3433,Recurrence of neuromuscular blockade,1
+3434,Red blood cell abnormality,8
+3435,Red blood cell count decreased,13
+3436,Red blood cell count increased,5
+3437,Red blood cell disorders,23
+3438,Red blood cell sedimentation rate increased,30
+3439,Red blood cells semen positive,1
+3440,Red cell distribution width increased,1
+3441,Red man syndrome,4
+3442,Reflexes abnormal,7
+3443,Reflux gastritis,1
+3444,Refraction disorder,14
+3445,Refractory anaemia with an excess of blasts,2
+3446,Refractory cytopenia with unilineage dysplasia,2
+3447,Regurgitation,28
+3448,Relapsing fever,1
+3449,Renal abscess,3
+3450,Renal aplasia,3
+3451,Renal artery stenosis,7
+3452,Renal artery thrombosis,1
+3453,Renal cancer,2
+3454,Renal cell carcinoma,5
+3455,Renal colic,16
+3456,Renal cortical necrosis,1
+3457,Renal cyst,11
+3458,Renal failure,456
+3459,Renal failure acute,232
+3460,Renal failure chronic,32
+3461,Renal function test abnormal,5
+3462,Renal graft loss,4
+3463,Renal haemorrhage,1
+3464,Renal impairment,267
+3465,Renal infarct,3
+3466,Renal mass,1
+3467,Renal neoplasm,4
+3468,Renal pain,69
+3469,Renal papillary necrosis,7
+3470,Renal rickets,1
+3471,Renal tubular acidosis,10
+3472,Renal tubular disorder,16
+3473,Renal tubular necrosis,38
+3474,Renal vasculitis,2
+3475,Renal vein thrombosis,1
+3476,Renovascular hypertension,1
+3477,Reperfusion injury,1
+3478,Repetitive speech,2
+3479,Repetitive strain injury,1
+3480,Reproductive system haemorrhages,1
+3481,Reproductive toxicity,2
+3482,Reproductive tract disorder,3
+3483,Residual urine volume,2
+3484,Respiration abnormal,16
+3485,Respiratory acidosis,8
+3486,Respiratory alkalosis,10
+3487,Respiratory arrest,55
+3488,Respiratory depression,98
+3489,Respiratory depth increased,1
+3490,Respiratory disorder,16
+3491,Respiratory disorder neonatal,1
+3492,Respiratory disorders NEC,1
+3493,Respiratory distress,91
+3494,Respiratory failure,169
+3495,Respiratory moniliasis,3
+3496,Respiratory paralysis,9
+3497,Respiratory rate decreased,11
+3498,Respiratory syncytial virus infection,2
+3499,Respiratory tract congestion,49
+3500,Respiratory tract haemorrhage,4
+3501,Respiratory tract infection,83
+3502,Respiratory tract infection viral,5
+3503,Respiratory tract oedema,2
+3504,Restless legs syndrome,28
+3505,Restrictive cardiomyopathy,2
+3506,Retained placenta or membranes,1
+3507,Retching,39
+3508,Reticulocytopenia,2
+3509,Reticulocytosis,8
+3510,Reticuloendothelial system stimulated,1
+3511,Retinal aneurysm,1
+3512,Retinal artery occlusion,8
+3513,Retinal degeneration,10
+3514,Retinal depigmentation,3
+3515,Retinal deposits,1
+3516,Retinal detachment,30
+3517,Retinal disorder,47
+3518,Retinal exudates,6
+3519,Retinal haemorrhage,38
+3520,Retinal injury,1
+3521,Retinal ischaemia,2
+3522,Retinal oedema,6
+3523,Retinal pigment epithelial tear,1
+3524,Retinal pigmentation,3
+3525,Retinal scar,1
+3526,Retinal tear,4
+3527,Retinal toxicity,4
+3528,Retinal vascular disorder,9
+3529,Retinal vascular occlusion,3
+3530,Retinal vascular thrombosis,9
+3531,Retinal vein occlusion,12
+3532,Retinal vein thrombosis,12
+3533,Retinitis,8
+3534,Retinogram abnormal,1
+3535,Retinoic acid syndrome,3
+3536,Retinopathy of prematurity,4
+3537,Retinopathy proliferative,1
+3538,Retrograde amnesia,6
+3539,Retrograde ejaculation,8
+3540,Retroperitoneal fibrosis,11
+3541,Retroperitoneal haematoma,1
+3542,Retroperitoneal haemorrhage,24
+3543,Reversible ischaemic neurological deficit,1
+3544,Reye's syndrome,4
+3545,Rhabdomyolysis,142
+3546,Rheumatic disorder,4
+3547,Rheumatoid arthritis,36
+3548,Rhinalgia,7
+3549,Rhinitis,420
+3550,Rhinitis allergic,30
+3551,Rhinitis atrophic,1
+3552,Rhinitis perennial,5
+3553,Rhinitis seasonal,28
+3554,Rhinitis ulcerative,1
+3555,Rhinorrhoea,126
+3556,Rhonchi,15
+3557,Rhythm idioventricular,6
+3558,Rib fracture,3
+3559,Rickets,2
+3560,Right ventricular failure,10
+3561,Risus sardonicus,2
+3562,Road traffic accident,17
+3563,Rosacea,26
+3564,Rotator cuff syndrome,2
+3565,Rubber sensitivity,1
+3566,Sacroiliitis,2
+3567,Saliva altered,7
+3568,Salivary duct obstruction,1
+3569,Salivary gland conditions,1
+3570,Salivary gland disorder,2
+3571,Salivary gland enlargement,33
+3572,Salivary gland pain,3
+3573,Salivary hypersecretion,172
+3574,Salmonella sepsis,1
+3575,Salmonellosis,1
+3576,Salpingitis,13
+3577,Sarcoidosis,6
+3578,Sarcoma,4
+3579,Sarcoma uterus,2
+3580,Scab,35
+3581,Scar,2
+3582,Scar pain,1
+3583,Schizoaffective disorder,1
+3584,Schizophrenia,16
+3585,Schizophreniform disorder,6
+3586,Sciatica,33
+3587,Scintillating scotoma,2
+3588,Scleral discolouration,2
+3589,Scleral disorder,1
+3590,Scleral haemorrhage,3
+3591,Scleral hyperaemia,7
+3592,Scleral pigmentation,1
+3593,Scleral thinning,6
+3594,Scleritis,15
+3595,Scleroderma,14
+3596,Scleromalacia,1
+3597,Sclerosing encapsulating peritonitis,1
+3598,Scoliosis,2
+3599,Scotoma,111
+3600,Scratch,2
+3601,Screaming,1
+3602,Scrotal disorder,1
+3603,Scrotal erythema,3
+3604,Scrotal oedema,17
+3605,Scrotal pain,2
+3606,Scrotal swelling,1
+3607,Scrotal ulcer,2
+3608,Seasonal allergy,27
+3609,Sebaceous gland disorder,1
+3610,Sebaceous hyperplasia,1
+3611,Seborrhoeic dermatitis,103
+3612,Seborrhoeic keratosis,10
+3613,Secondary adrenocortical insufficiency,25
+3614,Secondary hypertension,1
+3615,Secondary hypogonadism,2
+3616,Secondary syphilis,1
+3617,Sedation,15
+3618,Self injurious behaviour,5
+3619,Self-injurious ideation,7
+3620,Semen analysis abnormal,4
+3621,Semen volume decreased,1
+3622,Senile ankylosing vertebral hyperostosis,1
+3623,Sensation of blood flow,1
+3624,Sensation of foreign body,40
+3625,Sensation of heaviness,14
+3626,Sensation of pressure,7
+3627,Sense of oppression,1
+3628,Sensitisation,41
+3629,Sensitivity of teeth,4
+3630,Sensorimotor disorder,1
+3631,Sensory disturbance,33
+3632,Sensory loss,131
+3633,Sepsis,217
+3634,Sepsis neonatal,1
+3635,Septic arthritis streptobacillus,2
+3636,Septic shock,38
+3637,Seroma,2
+3638,Serositis,9
+3639,Serotonin syndrome,41
+3640,Serum ferritin decreased,1
+3641,Serum ferritin increased,2
+3642,Serum sickness,66
+3643,Serum sickness-like reaction,12
+3644,Severe acute respiratory syndrome,2
+3645,Sexual desire disorders,1
+3646,Sexual dysfunction,75
+3647,Sexually active,2
+3648,Sexually transmitted disease,3
+3649,Shift to the left,1
+3650,Shock,764
+3651,Shock haemorrhagic,1
+3652,Shock hypoglycaemic,1
+3653,Shortened cervix,1
+3654,Shunt thrombosis,1
+3655,Sialoadenitis,27
+3656,Sick sinus syndrome,10
+3657,Sickle cell anaemia,2
+3658,Sickle cell anaemia with crisis,3
+3659,Sideroblastic anaemia,2
+3660,Single umbilical artery,1
+3661,Sinoatrial block,7
+3662,Sinobronchitis,1
+3663,Sinus arrest,22
+3664,Sinus arrhythmia,19
+3665,Sinus bradycardia,64
+3666,Sinus congestion,67
+3667,Sinus disorder,7
+3668,Sinus headache,43
+3669,Sinus operation,2
+3670,Sinus rhythm,1
+3671,Sinus tachycardia,49
+3672,Sinusitis,376
+3673,Sinusitis bacterial,1
+3674,Sjogren's syndrome,8
+3675,Skeletal injury,2
+3676,Skin atrophy,58
+3677,Skin bacterial infection,5
+3678,Skin burning sensation,25
+3679,Skin cancer,42
+3680,Skin candida,9
+3681,Skin depigmentation,9
+3682,Skin discolouration,149
+3683,Skin discomfort,9
+3684,Skin disorder,782
+3685,Skin erosion,1
+3686,Skin exfoliation,194
+3687,Skin fibrosis,1
+3688,Skin fissures,9
+3689,Skin fragility,6
+3690,Skin haemorrhage,9
+3691,Skin hyperpigmentation,89
+3692,Skin hypertrophy,46
+3693,Skin induration,4
+3694,Skin infection,35
+3695,Skin irritation,58
+3696,Skin lesion,34
+3697,Skin maceration,1
+3698,Skin mass,38
+3699,Skin necrosis,48
+3700,Skin odour abnormal,38
+3701,Skin oedema,5
+3702,Skin papilloma,40
+3703,Skin reaction,4
+3704,Skin sensitisation,4
+3705,Skin striae,59
+3706,Skin swelling,2
+3707,Skin tightness,8
+3708,Skin toxicity,12
+3709,Skin ulcer,118
+3710,Skin warm,4
+3711,Skin wrinkling,6
+3712,Skull malformation,2
+3713,Sleep apnoea syndrome,20
+3714,Sleep attacks,2
+3715,Sleep disorder,227
+3716,Sleep paralysis,3
+3717,Sleep phase rhythm disturbance,3
+3718,Sleep talking,5
+3719,Sleep terror,3
+3720,Slow speech,1
+3721,Sluggishness,13
+3722,Small bowel angioedema,4
+3723,Small cell lung cancer,1
+3724,Small intestinal obstruction,8
+3725,Small intestinal perforation,1
+3726,Small intestine ulcer,1
+3727,Smear cervix abnormal,10
+3728,Smear cervix normal,1
+3729,Sneezing,92
+3730,Snoring,12
+3731,Social avoidant behaviour,2
+3732,Soft tissue disorder,2
+3733,Soft tissue infection,2
+3734,Soft tissue inflammation,1
+3735,Soft tissue injury,6
+3736,Soft tissue necrosis,2
+3737,Solar dermatitis,1
+3738,Solar lentigo,2
+3739,Somatic hallucination,1
+3740,Somatoform disorder,2
+3741,Somnambulism,18
+3742,Somnolence,854
+3743,Somnolence neonatal,1
+3744,Spasmodic dysphonia,1
+3745,Spastic paralysis,1
+3746,Speech and language abnormalities,3
+3747,Speech disorder,127
+3748,Sperm concentration,1
+3749,Sperm concentration decreased,5
+3750,Spermatocele,3
+3751,Spermatogenesis abnormal,1
+3752,Spermatozoa abnormal,2
+3753,Sphincter of Oddi dysfunction,1
+3754,Spina bifida,1
+3755,Spina bifida occulta,1
+3756,Spinal anaesthesia,5
+3757,Spinal compression fracture,19
+3758,Spinal cord compression,9
+3759,Spinal cord disorder,6
+3760,Spinal cord haemorrhage,2
+3761,Spinal cord infarction,1
+3762,Spinal cord injury,7
+3763,Spinal cord paralysis,1
+3764,Spinal disorder,1
+3765,Spinal epidural haematoma,2
+3766,Spinal fracture,4
+3767,Spinal haematoma,5
+3768,Spinal osteoarthritis,2
+3769,Spine malformation,4
+3770,Spleen disorder,4
+3771,Spleen palpable,1
+3772,Splenic infarction,5
+3773,Splenic peliosis,1
+3774,Splenic rupture,3
+3775,Splenomegaly,35
+3776,Splinter haemorrhages,1
+3777,Spondylitis,2
+3778,Spondyloarthropathy,3
+3779,Spontaneous haematoma,1
+3780,Spontaneous penile erection,6
+3781,Sports injury,1
+3782,Sputum discoloured,2
+3783,Sputum increased,30
+3784,Sputum purulent,2
+3785,Squamous cell carcinoma,23
+3786,Squamous cell carcinoma of lung,1
+3787,Squamous cell carcinoma of skin,5
+3788,Staphylococcal bacteraemia,7
+3789,Staphylococcal infection,19
+3790,Staphylococcal scalded skin syndrome,1
+3791,Staphylococcal skin infection,1
+3792,Stargardt's disease,1
+3793,Staring,1
+3794,Status asthmaticus,6
+3795,Status epilepticus,24
+3796,Steatorrhoea,11
+3797,Stereotypy,5
+3798,Steroid withdrawal syndrome,8
+3799,Stevens-Johnson syndrome,345
+3800,Sticky skin,21
+3801,Stillbirth,14
+3802,Stomach dilation procedure,3
+3803,Stomatitis,471
+3804,Stomatitis necrotising,1
+3805,Strabismus,4
+3806,Strangury,26
+3807,Streptobacillary fever,2
+3808,Streptococcal infection,3
+3809,Streptococcal sepsis,2
+3810,Stress,12
+3811,Stress at work,1
+3812,Stress fracture,1
+3813,Stridor,39
+3814,Stroke volume increased,1
+3815,Strongyloidiasis,1
+3816,Stupor,100
+3817,Subacute endocarditis,2
+3818,Subarachnoid haemorrhage,24
+3819,Subconjunctival cyst,1
+3820,Subcutaneous abscess,6
+3821,Subcutaneous haematoma,4
+3822,Subdural effusion,1
+3823,Subdural haematoma,23
+3824,Subileus,15
+3825,Submandibular mass,1
+3826,Substance abuse,5
+3827,Substance-induced psychotic disorder,1
+3828,Sudden cardiac death,8
+3829,Sudden death,71
+3830,Sudden hearing loss,5
+3831,Sudden infant death syndrome,2
+3832,Sudden onset of sleep,6
+3833,Sudden unexplained death in epilepsy,2
+3834,Sudden visual loss,3
+3835,Suicidal behaviour,26
+3836,Suicidal ideation,95
+3837,Suicide attempt,71
+3838,Sulphaemoglobinaemia,3
+3839,Sunburn,31
+3840,Superinfection,28
+3841,Superior sagittal sinus thrombosis,1
+3842,Superior vena cava syndrome,1
+3843,Supernumerary nipple,3
+3844,Suppressed lactation,2
+3845,Suprapubic pain,1
+3846,Supraventricular extrasystoles,43
+3847,Supraventricular tachyarrhythmia,2
+3848,Supraventricular tachycardia,93
+3849,Surgery,25
+3850,Suspiciousness,1
+3851,Suture related complication,1
+3852,Sweat gland disorder,2
+3853,Sweat gland tumour,1
+3854,Swelling,219
+3855,Swelling face,55
+3856,Swollen tongue,38
+3857,Sympathomimetic effect,2
+3858,Syncope,543
+3859,Syndactyly,1
+3860,Synovial cyst,2
+3861,Synovitis,12
+3862,Syphilis,1
+3863,Systemic candida,1
+3864,Systemic inflammatory response syndrome,2
+3865,Systemic lupus erythematosus,97
+3866,Systemic lupus erythematosus rash,1
+3867,Systemic mycosis,1
+3868,Systolic hypertension,4
+3869,T-cell lymphoma,1
+3870,Tachyarrhythmia,16
+3871,Tachycardia,652
+3872,Tachycardia foetal,3
+3873,Tachyphylaxis,3
+3874,Tachypnoea,43
+3875,Talipes,6
+3876,Tandem gait test abnormal,1
+3877,Tardive dyskinesia,44
+3878,Taste disorders,36
+3879,Tearfulness,10
+3880,Teething,2
+3881,Telangiectasia,38
+3882,Temperature intolerance,16
+3883,Temperature regulation disorder,1
+3884,Temporal arteritis,1
+3885,Temporomandibular joint syndrome,2
+3886,Tenderness,126
+3887,Tendinous contracture,7
+3888,Tendon disorder,28
+3889,Tendon injury,1
+3890,Tendon pain,4
+3891,Tendon rupture,31
+3892,Tendonitis,47
+3893,Tenosynovitis,42
+3894,Tension,478
+3895,Tension headache,13
+3896,Teratogenicity,18
+3897,Terminal insomnia,9
+3898,Testicular atrophy,21
+3899,Testicular disorder,13
+3900,Testicular pain,25
+3901,Testicular swelling,17
+3902,Testis cancer,1
+3903,Tetanus,2
+3904,Tetany,31
+3905,Tetrahydrobiopterin deficiency,1
+3906,Therapeutic response decreased,4
+3907,Therapeutic response increased,2
+3908,Therapeutic response unexpected,6
+3909,Therapy naive,3
+3910,Thermal burn,9
+3911,Thinking abnormal,128
+3912,Thirst,225
+3913,Thoracic vertebral fracture,1
+3914,Thought blocking,1
+3915,Throat irritation,77
+3916,Throat tightness,54
+3917,Thrombocytopenia,650
+3918,Thrombocytopenic purpura,60
+3919,Thrombocytosis,94
+3920,Thrombophlebitis,217
+3921,Thrombophlebitis superficial,23
+3922,Thrombosis,119
+3923,Thrombosis in device,4
+3924,Thrombosis mesenteric vessel,2
+3925,Thrombotic microangiopathy,11
+3926,Thrombotic thrombocytopenic purpura,30
+3927,Thyroglobulin increased,1
+3928,Thyroid adenoma,3
+3929,Thyroid cancer,1
+3930,Thyroid disorder,19
+3931,Thyroid function test abnormal,10
+3932,Thyroid neoplasm,10
+3933,Thyroiditis,15
+3934,Thyrotoxic crisis,3
+3935,Thyroxine decreased,1
+3936,Thyroxine free decreased,2
+3937,Tibial torsion,1
+3938,Tic,3
+3939,Tinea cruris,2
+3940,Tinea infection,4
+3941,Tinea pedis,8
+3942,Tinea versicolour,3
+3943,Tinnitus,422
+3944,Tobacco poisoning,1
+3945,Tobacco withdrawal symptoms,1
+3946,Toe walking,1
+3947,Tongue blistering,3
+3948,Tongue coated,11
+3949,Tongue discolouration,63
+3950,Tongue disorder,116
+3951,Tongue dry,2
+3952,Tongue geographic,3
+3953,Tongue neoplasm,1
+3954,Tongue neoplasm malignant stage unspecified,1
+3955,Tongue oedema,75
+3956,Tongue paralysis,7
+3957,Tongue pigmentation,1
+3958,Tongue spasm,4
+3959,Tongue ulceration,20
+3960,Tonic clonic movements,2
+3961,Tonic convulsion,1
+3962,Tonsillar disorder,1
+3963,Tonsillar hypertrophy,1
+3964,Tonsillitis,28
+3965,Tooth abscess,54
+3966,Tooth discolouration,17
+3967,Tooth disorder,88
+3968,Tooth erosion,2
+3969,Tooth fracture,5
+3970,Tooth hypoplasia,5
+3971,Tooth infection,13
+3972,Tooth injury,2
+3973,Tooth loss,3
+3974,Tooth malformation,1
+3975,Toothache,89
+3976,Torsade de pointes,95
+3977,Torticollis,34
+3978,Tourette's disorder,7
+3979,Toxic dilatation of intestine,1
+3980,Toxic encephalopathy,2
+3981,Toxic epidermal necrolysis,297
+3982,Toxic neuropathy,2
+3983,Toxic shock syndrome,4
+3984,Toxic skin eruption,12
+3985,Toxicity to various agents,35
+3986,Toxoplasmosis,3
+3987,Tracheal disorder,1
+3988,Tracheal fistula,1
+3989,Tracheitis,11
+3990,Tracheo-oesophageal fistula,4
+3991,Tracheobronchitis,25
+3992,Tracheostomy infection,1
+3993,Transaminases decreased,1
+3994,Transaminases increased,105
+3995,Transfusion reaction,7
+3996,Transient cerebrovascular events,1
+3997,Transient global amnesia,4
+3998,Transient ischaemic attack,72
+3999,Transplant failure,1
+4000,Transplant rejection,6
+4001,Transverse sinus thrombosis,1
+4002,Traumatic arthropathy,2
+4003,Traumatic fracture,1
+4004,Traumatic haematoma,3
+4005,Traumatic haemorrhage,4
+4006,Traumatic liver injury,48
+4007,Traumatic lung injury,2
+4008,Tremor,537
+4009,Treponema infections,1
+4010,Trichorrhexis,1
+4011,Trichotillomania,1
+4012,Tricuspid valve incompetence,1
+4013,Trigeminal neuralgia,4
+4014,Trigger finger,3
+4015,Trismus,40
+4016,Trisomy 18,3
+4017,Trisomy 21,6
+4018,Troponin I increased,2
+4019,Troponin increased,2
+4020,Tuberculin test positive,1
+4021,Tuberculosis,20
+4022,Tubulointerstitial nephritis,138
+4023,Tumour cell mobilisation,1
+4024,Tumour compression,1
+4025,Tumour flare,8
+4026,Tumour haemorrhage,2
+4027,Tumour invasion,2
+4028,Tumour lysis syndrome,33
+4029,Tumour necrosis,6
+4030,Tumour pain,10
+4031,Tunnel vision,1
+4032,Turner's syndrome,1
+4033,Tympanic membrane disorder,1
+4034,Tympanic membrane hyperaemia,1
+4035,Tympanic membrane perforation,8
+4036,Type 1 diabetes mellitus,1
+4037,Type 2 diabetes mellitus,10
+4038,Type I hypersensitivity,15
+4039,Type III immune complex mediated reaction,1
+4040,Type IIa hyperlipidaemia,2
+4041,Type IV hypersensitivity reaction,18
+4042,Typhoid fever,2
+4043,Ulcer,137
+4044,Ulcer haemorrhage,4
+4045,Ulcerative keratitis,32
+4046,Ulna fracture,1
+4047,Ultrasound breast abnormal,1
+4048,Ultrasound ovary abnormal,1
+4049,Umbilical hernia,2
+4050,Underweight,3
+4051,Unintended pregnancy,16
+4052,Unresponsive to stimuli,6
+4053,Unwanted awareness during anaesthesia,1
+4054,Upper airway obstruction,5
+4055,Upper gastrointestinal haemorrhage,11
+4056,Upper limb fracture,1
+4057,Upper motor neurone lesion,1
+4058,Upper respiratory tract congestion,5
+4059,Upper respiratory tract infection,348
+4060,Upper respiratory tract inflammation,2
+4061,Upper respiratory tract signs and symptoms,2
+4062,Upper-airway cough syndrome,25
+4063,Urate nephropathy,2
+4064,Ureteral spasm,7
+4065,Ureteric cancer,1
+4066,Ureteric obstruction,15
+4067,Ureteritis,1
+4068,Ureterostomy site discomfort,1
+4069,Urethral discharge,1
+4070,Urethral disorder,409
+4071,Urethral haemorrhage,7
+4072,Urethral obstruction,2
+4073,Urethral pain,16
+4074,Urethral stenosis,4
+4075,Urethral syndrome,1
+4076,Urethritis,25
+4077,Urethritis noninfective,24
+4078,Urge incontinence,2
+4079,Urinary abnormalities,6
+4080,Urinary bladder polyp,1
+4081,Urinary hesitation,50
+4082,Urinary incontinence,165
+4083,Urinary retention,261
+4084,Urinary sediment abnormal,1
+4085,Urinary sediment present,1
+4086,Urinary tract disorder,400
+4087,Urinary tract infection,367
+4088,Urinary tract infection fungal,2
+4089,Urinary tract obstruction,3
+4090,Urinary tract pain,1
+4091,Urinary tract signs and symptoms,2
+4092,Urine abnormality,65
+4093,Urine analysis abnormal,75
+4094,Urine calcium increased,4
+4095,Urine electrolytes abnormal,1
+4096,Urine flow decreased,8
+4097,Urine ketone body present,1
+4098,Urine odour abnormal,7
+4099,Urine output,16
+4100,Urine output increased,186
+4101,Urine phosphorus increased,3
+4102,Urine sodium increased,1
+4103,Urogenital disorder,15
+4104,Urogenital haemorrhage,3
+4105,Urosepsis,7
+4106,Urticaria,888
+4107,Urticaria chronic,2
+4108,Urticaria physical,1
+4109,Urticaria vesiculosa,1
+4110,Uterine atony,5
+4111,Uterine cancer,3
+4112,Uterine cervical erosion,9
+4113,Uterine cervical squamous metaplasia,1
+4114,Uterine contractions during pregnancy,5
+4115,Uterine cyst,1
+4116,Uterine disorder,9
+4117,Uterine enlargement,3
+4118,Uterine haemorrhage,42
+4119,Uterine hypertonus,3
+4120,Uterine hypotonus,5
+4121,Uterine inflammation,1
+4122,Uterine leiomyoma,34
+4123,Uterine mass,1
+4124,Uterine neoplasm,3
+4125,Uterine pain,3
+4126,Uterine perforation,1
+4127,Uterine polyp,4
+4128,Uterine prolapse,1
+4129,Uterine rupture,6
+4130,Uterine spasm,11
+4131,Uterovaginal prolapse,1
+4132,Uveitis,41
+4133,VIIth nerve paralysis,55
+4134,VIth nerve paralysis,3
+4135,Vaginal cyst,3
+4136,Vaginal discharge,104
+4137,Vaginal disorder,5
+4138,Vaginal dysplasia,1
+4139,Vaginal erosion,1
+4140,Vaginal haemorrhage,123
+4141,Vaginal infection,199
+4142,Vaginal inflammation,167
+4143,Vaginal mucosal blistering,2
+4144,Vaginal neoplasm,1
+4145,Vaginal odour,3
+4146,Vaginal prolapse,2
+4147,Vaginal ulceration,3
+4148,Vaginal wall congestion,1
+4149,Vaginismus,2
+4150,Vaginitis bacterial,7
+4151,Vanishing bile duct syndrome,1
+4152,Varicella,14
+4153,Varices oesophageal,6
+4154,Varicocele,2
+4155,Varicose vein,47
+4156,Varicose veins vulval,1
+4157,Vascular anomaly,8
+4158,Vascular calcification,1
+4159,Vascular dementia,1
+4160,Vascular graft occlusion,1
+4161,Vascular headache,12
+4162,Vascular hypertensive disorders,1
+4163,Vascular hypotensive disorders,2
+4164,Vascular insufficiency,5
+4165,Vascular occlusion,5
+4166,Vascular pain,6
+4167,Vascular pseudoaneurysm,3
+4168,Vascular purpura,213
+4169,Vascular resistance pulmonary increased,2
+4170,Vascular resistance systemic,3
+4171,Vascular rupture,1
+4172,Vascular stenosis,2
+4173,Vasculitic rash,3
+4174,Vasculitis,161
+4175,Vasculitis cerebral,1
+4176,Vasculitis gastrointestinal,2
+4177,Vasculitis necrotising,27
+4178,Vasoconstriction,5
+4179,Vasodilatation,6
+4180,Vasodilation procedure,138
+4181,Vasomotor rhinitis,2
+4182,Vasospasm,39
+4183,Vein discolouration,5
+4184,Vein disorder,8
+4185,Vena cava thrombosis,1
+4186,Venomous bite,1
+4187,Venoocclusive disease,12
+4188,Venoocclusive liver disease,15
+4189,Venous insufficiency,7
+4190,Venous occlusion,6
+4191,Venous pressure increased,2
+4192,Venous pressure jugular increased,1
+4193,Venous thrombosis,42
+4194,Venous thrombosis limb,2
+4195,Ventricular arrhythmia,105
+4196,Ventricular dysfunction,10
+4197,Ventricular extrasystoles,146
+4198,Ventricular failure,3
+4199,Ventricular fibrillation,107
+4200,Ventricular flutter,1
+4201,Ventricular hypertrophy,9
+4202,Ventricular hypokinesia,2
+4203,Ventricular septal defect,8
+4204,Ventricular tachycardia,163
+4205,Vertebrobasilar insufficiency,2
+4206,Vertical infection transmission,1
+4207,Vertigo,531
+4208,Vertigo CNS origin,1
+4209,Vertigo positional,5
+4210,Vessel perforation,1
+4211,Vessel puncture site bruise,3
+4212,Vessel puncture site haematoma,4
+4213,Vessel puncture site haemorrhage,2
+4214,Vessel puncture site inflammation,1
+4215,Vestibular ataxia,1
+4216,Vestibular disorder,20
+4217,Vestibular neuronitis,1
+4218,Viraemia,5
+4219,Viral diarrhoea,30
+4220,Viral infection,137
+4221,Viral infections NEC,1
+4222,Viral pharyngitis,1
+4223,Viral skin infection,3
+4224,Viral upper respiratory tract infection,14
+4225,Virilism,13
+4226,Vision blurred,498
+4227,Visual acuity reduced,79
+4228,Visual brightness,3
+4229,Visual colour distortions,3
+4230,Visual evoked potentials abnormal,1
+4231,Visual impairment,555
+4232,Vital dye staining cornea present,14
+4233,Vitamin B complex deficiency,2
+4234,Vitamin B12 deficiency,10
+4235,Vitamin B6 deficiency,3
+4236,Vitamin E decreased,1
+4237,Vitamin K decreased,1
+4238,Vitamin K deficiency,4
+4239,Vitiligo,6
+4240,Vitreous detachment,14
+4241,Vitreous disorder,13
+4242,Vitreous floaters,25
+4243,Vitreous haemorrhage,10
+4244,Vitreous opacities,4
+4245,Vitreous prolapse,1
+4246,Vocal cord disorder,1
+4247,Vocal cord paralysis,5
+4248,Vocal cord paresis,2
+4249,Vogt-Koyanagi-Harada syndrome,2
+4250,Volume blood increased,3
+4251,Volvulus,2
+4252,Vomiting,1175
+4253,Vomiting neonatal,1
+4254,Vulval abscess,2
+4255,Vulval disorder,6
+4256,Vulval ulceration,1
+4257,Vulvitis,7
+4258,Vulvovaginal burning sensation,9
+4259,Vulvovaginal candidiasis,82
+4260,Vulvovaginal discomfort,20
+4261,Vulvovaginal disorder,7
+4262,Vulvovaginal dryness,24
+4263,Vulvovaginal erythema,2
+4264,Vulvovaginal mycotic infection,96
+4265,Vulvovaginal pain,12
+4266,Vulvovaginal pruritus,30
+4267,Vulvovaginal swelling,2
+4268,Vulvovaginitis,21
+4269,Vulvovaginitis trichomonal,2
+4270,Waist circumference increased,3
+4271,Walking disability,11
+4272,Wandering pacemaker,1
+4273,Warm type haemolytic anaemia,1
+4274,Water intoxication,14
+4275,Waxy flexibility,1
+4276,Weight decreased,335
+4277,Weight fluctuation,6
+4278,Weight gain poor,1
+4279,Weight increased,347
+4280,Wernicke-Korsakoff syndrome,1
+4281,Wheezing,186
+4282,White blood cell count abnormal,1
+4283,White blood cell count decreased,73
+4284,White blood cell count increased,22
+4285,White blood cell disorder,14
+4286,White blood cells urine positive,10
+4287,White matter lesion,1
+4288,Withdrawal bleed,6
+4289,Withdrawal hypertension,4
+4290,Withdrawal syndrome,47
+4291,Wound,16
+4292,Wound complication,5
+4293,Wound dehiscence,10
+4294,Wound haematoma,1
+4295,Wound haemorrhage,12
+4296,Wound healing normal,1
+4297,Wound infection,17
+4298,Wound secretion,14
+4299,Wrist fracture,3
+4300,X-linked lymphoproliferative syndrome,14
+4301,Xanthoma,6
+4302,Xanthomatosis,1
+4303,Xanthopsia,18
+4304,Xeroderma,8
+4305,Xerophthalmia,28
+4306,Xerosis,6
+4307,Yawning,44
+4308,Yellow nail syndrome,1
+4309,Yellow skin,4
+4310,Zinc deficiency,1
+4311,Zygomycosis,2
+4312,pH urine decreased,1
+4313,pH urine increased,1
