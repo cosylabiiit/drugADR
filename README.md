@@ -34,7 +34,7 @@ You should see an output - ``Imports successful. Good to go!``
 
 ## Directory Structure
 
-#### Top-Level directory structure:
+#### Top-Level Structure:
 
     .
     .
