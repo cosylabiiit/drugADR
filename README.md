@@ -117,3 +117,5 @@ To run something simple, simply execute the standalone ``.py`` script via comman
 Advisory: All these experiments were carried out on IIIT-Delhi's HPC server-node with [these specifications](http://it.iiitd.edu.in/HPC_final_doc.pdf) due to the volume & time of compute required. It is advised to run any tests in a similar environment.
 
 ## Acknowledgements
+
+G.B. thanks the Indraprastha Institute of Information Technology (IIIT-Delhi) for providing computational facilities and support. S.W., A.G. and S.D. were Summer Research Interns in Dr. Bagler's lab at the Center for Computational Biology, and are thankful to IIIT-Delhi for the support and fellowship. R.K. thanks the Ministry of Human Resource Development, Government of India and Indian Institute of Technology Jodhpur for the senior research fellowship.  
