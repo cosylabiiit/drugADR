@@ -1,9 +1,17 @@
 # drugADR
 
-The project involves prediction of side effects prediction using existing data ([SIDER4](http://sideeffects.embl.de/)) by leveraging machine learning with statistical data analysis. During the course of this project the following tasks were performed:
-- Extraction of biological, chemical data.
-- Computational manipulation of data from drugs and phenotypic side effects.
+The project involves implementation of a hierarchical anatomical schema for aggregation of side effects towards prediction of side effects using existing data ([SIDER4](http://sideeffects.embl.de/)) by leveraging machine learning and statistical data analysis. During the course of this project the following tasks were performed:
+- Extraction of relevant data of drug side effects, chemical properties etc.
+- Hierarchical classification of side effects based on organ/system involved.
+- Data preprocessing.
 - Implementation of machine learning algorithms for prediction of side effects.
+
+Authors: Somin Wadhwa†, [Aishwarya Gupta](https://github.com/agupta04)†, [Shubham Dokania](https://github.com/shubham1810)†, [Rakesh Kanji](http://cosylab.iiitd.edu.in/people/RKanji.html), [Ganesh Bagler](http://cosylab.iiitd.edu.in/)*
+
+† Equal contributions
+* Corresponding Author (bagler@iiitd.ac.in)
+
+This work was done in the Complex Systems Laboratory, Center for Computational Biology, IIIT-Delhi.
 
 ## Pre-requisites
 
