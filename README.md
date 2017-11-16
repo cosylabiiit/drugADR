@@ -2,7 +2,7 @@
 
 The project involves implementation of a hierarchical anatomical schema for aggregation of side effects towards prediction of side effects using existing data ([SIDER4](http://sideeffects.embl.de/)) by leveraging machine learning and statistical data analysis. During the course of this project the following tasks were performed:
 - Extraction of relevant data of drug side effects, chemical properties etc.
-- Hierarchical classification of side effects based on organ/system involved. A running visualization of the same, prepared as a part of this project, can be seen at [http://cosylab.iiitd.edu.in/ADRhac.html](http://cosylab.iiitd.edu.in/ADRhac).
+- Hierarchical classification of side effects based on organ/system involved. A running visualization of the same, prepared as a part of this project, can be seen at [http://cosylab.iiitd.edu.in/ADRhac.html](http://cosylab.iiitd.edu.in/ADRhac.html).
 - Data preprocessing.
 - Implementation of machine learning algorithms for prediction of side effects.
 
