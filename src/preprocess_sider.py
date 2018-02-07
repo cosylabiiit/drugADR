@@ -17,11 +17,13 @@ columns = [
 ]
 df = pd.read_table('../data/meddra_all_se.tsv', names=columns)
 df.drop(df[df.meddra_type == "LLT"].index, inplace=True)
+df.dropna(inplace=True)
 print (df.info())
 
 df = df.groupby('stitch_id_flat').side_effect_name.apply(list).reset_index()
 df['pubchem_id'] = df.stitch_id_flat.map(stitch_to_pubchem)
 print (df.head())
+print (df.info())
 
 val = []
 vals = {}
