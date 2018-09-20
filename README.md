@@ -6,9 +6,7 @@ The project involves implementation of a hierarchical anatomical schema for aggr
 - Data preprocessing.
 - Implementation of machine learning algorithms for prediction of side effects.
 
-Authors: Somin Wadhwa†, [Aishwarya Gupta](https://github.com/agupta04)†, [Shubham Dokania](https://github.com/shubham1810)†, [Rakesh Kanji](http://cosylab.iiitd.edu.in/people/RKanji.html), [Ganesh Bagler](http://cosylab.iiitd.edu.in/)*
-
-† Equal contribution
+Authors: Somin Wadhwa, [Aishwarya Gupta](https://github.com/agupta04), [Shubham Dokania](https://github.com/shubham1810), [Rakesh Kanji](http://cosylab.iiitd.edu.in/people/RKanji.html), [Ganesh Bagler](http://cosylab.iiitd.edu.in/)*
 
 &ast; Corresponding Author (bagler@iiitd.ac.in)
 
